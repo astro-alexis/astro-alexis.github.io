@@ -6,6 +6,7 @@
     <description>Recent content on alexis lavail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>lolololo</copyright>
     <lastBuildDate>Thu, 01 Aug 2019 15:02:20 +0200</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -21,6 +22,34 @@
     </item>
     
     <item>
+      <title>A new logo for Svenska astronomiska sällskapet</title>
+      <link>https://astro-alexis.github.io/design/astronomiska/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/design/astronomiska/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title>A sudden change of the global magnetic field of the active M-dwarf AD Leo</title>
+      <link>https://astro-alexis.github.io/posters/cs20/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/posters/cs20/</guid>
+      <description>Alexis Lavail, Oleg Kochukhov, and Gregg Wade A poster presented at the Cool Stars 20 conference
+Useful links  PDF version of the poster Link to the paper on ADS  Summary of the science in not-so-rigorous language Our aim was to get the first observations ever of a M-dwarf in all four Stokes parameters. This means one gets the intensity spectrum (Stokes I), the circularly polarized spectrum (Stokes V) and the two linearly polarized spectra (Stokes Q and U).</description>
+    </item>
+    
+    <item>
+      <title>Presentations from the Uppsala-Stockholm PhD days</title>
+      <link>https://astro-alexis.github.io/uusu2014/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/uusu2014/</guid>
+      <description> 10-11 april 2014, Uppsala Universitet Thursday 10 april 2014  Kai Yan Lee - Reionization and the cosmic dawn Hannes Jensen - Simulating observational probes of reionization Saghar Asadi - Gravitational millilensing as a probe of dark matter on subgalactic scales Beatriz Villarroel Rodriguez - What is an Active Galactic Nuclei? Sarah Jabbari - Origin of solar surface activity and sunspots Alexis Lavail - Investigation of stellar magnetic fields using infrared spectropolarimetry Lisa Rosén - Magnetic fields of cool active stars Naum Rusomarov - Magnetic fields of Ap stars from all four Stokes parameters  Friday 11 april 2014  Andreas Sandberg - Observations of Lyman alpha emitting galaxies at low and intermediate redshifts Florent Duval - Lyman alpha radiative transfer in Star-burst Galaxies Johannes Puschnig - Multi-wavelength studies of star-forming galaxies Thøger Juul Rivera-Thorsen - Neutral gas kinematics and geometry in young, starforming galaxies and its impact on Lyman alpha radiation transport Samuel Regandell - Spectral Synthesis for protoplanetary disk models Gianni Cataldi - Observations and modeling of debris disks Sara Lindgren - Accurate spectroscopy of M dwarfs, a possible link to understand planet formation Erik Aronson - Spectroscopic characterization of exoplanetary atmospheres  </description>
+    </item>
+    
+    <item>
       <title>about</title>
       <link>https://astro-alexis.github.io/about/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -29,15 +58,6 @@
       <description>Interests A bunch of unsorted keywords reflecting some of the things I do or take interest in.
 feminism, environment, hiking, vegetables, listener-supported radios, democracy, analog photography, anticipation books, world literature, cycling, trip-hop, downtempo, post-rock, nature, mountains, cross-country skiing, stars, baking pizzas, magnetic fields, dystopias, space, astronomy, robotic exploration, sharing is caring, design, typography.
 Design Some of my duties at Uppsala University have been to design websites and posters for conferences and outreach events.</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://astro-alexis.github.io/uusu2014/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/uusu2014/</guid>
-      <description>Presentations from the Uppsala-Stockholm PhD days at Uppsala Universitet Thursday 10 april 2014 Kai Yan Lee - Reionization and the cosmic dawn Hannes Jensen - Simulating observational probes of reionization Saghar Asadi - Gravitational millilensing as a probe of dark matter on subgalactic scales Beatriz Villarroel Rodriguez - What is an Active Galactic Nuclei? Sarah Jabbari - Origin of solar surface activity and sunspots Alexis Lavail - Investigation of stellar magnetic fields using infrared spectropolarimetry Lisa Rosén - Magnetic fields of cool active stars Naum Rusomarov - Magnetic fields of Ap stars from all four Stokes parameters</description>
     </item>
     
     <item>

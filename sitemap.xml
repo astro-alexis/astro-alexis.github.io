@@ -14,12 +14,34 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/about/</loc>
+    <loc>https://astro-alexis.github.io/design/astronomiska/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/posters/cs20/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/design/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/posters/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/uusu2014/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/about/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
