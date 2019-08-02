@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alexis lavail</title>
+    <link>https://astro-alexis.github.io/</link>
+    <description>Recent content on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 15:02:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>research</title>
+      <link>https://astro-alexis.github.io/research/</link>
+      <pubDate>Thu, 01 Aug 2019 15:02:20 +0200</pubDate>
+      
+      <guid>https://astro-alexis.github.io/research/</guid>
+      <description>Research interests Magnetism of cool stars I investigate magnetic fields of pre main-sequence T Tauri Stars and main sequence M-dwarfs. I work on high-resolution near-infrared spectra obtained with the CRIRES (CRyogenic Infrared Echelle Spectrograph) instrument sitting at the Very Large Telescope in Chile, or optical spectropolarimetry from ESPADONS at the Canada France Hawaii Telescope. I work under the supervision of Oleg Kochukhov and Nikolai Piskunov from Uppsala University, and Gaitee Hussain from the European Southern Observatory.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://astro-alexis.github.io/about/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/about/</guid>
+      <description>Interests A bunch of unsorted keywords reflecting some of the things I do or take interest in.
+feminism, environment, hiking, vegetables, listener-supported radios, democracy, analog photography, anticipation books, world literature, cycling, trip-hop, downtempo, post-rock, nature, mountains, cross-country skiing, stars, baking pizzas, magnetic fields, dystopias, space, astronomy, robotic exploration, sharing is caring, design, typography.
+Design Some of my duties at Uppsala University have been to design websites and posters for conferences and outreach events.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://astro-alexis.github.io/uusu2014/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/uusu2014/</guid>
+      <description>Presentations from the Uppsala-Stockholm PhD days at Uppsala Universitet Thursday 10 april 2014 Kai Yan Lee - Reionization and the cosmic dawn Hannes Jensen - Simulating observational probes of reionization Saghar Asadi - Gravitational millilensing as a probe of dark matter on subgalactic scales Beatriz Villarroel Rodriguez - What is an Active Galactic Nuclei? Sarah Jabbari - Origin of solar surface activity and sunspots Alexis Lavail - Investigation of stellar magnetic fields using infrared spectropolarimetry Lisa Rosén - Magnetic fields of cool active stars Naum Rusomarov - Magnetic fields of Ap stars from all four Stokes parameters</description>
+    </item>
+    
+    <item>
+      <title>appearances</title>
+      <link>https://astro-alexis.github.io/appearances/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/appearances/</guid>
+      <description>2019  2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.04.01 - 1-week science visit and seminar at Université de Montpellier (France)  2018  2018.07.29 - Cool Stars 20 at Boston / Cambridge (USA) - poster 2018.05.14 - SunStars summer school at Banyuls sur Mer (France) 2018.05.01 - 2-week science visit at Université de Montpellier (France)  2017  2017.12.02 - 3-week science visit at ESO Garching (Germany) 2017.</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://astro-alexis.github.io/contact/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/contact/</guid>
+      <description>If you&amp;rsquo;d like to get in touch / have any question, feel free to contact me!
+E-mail
+LinkedIn
+Visiting adress: room Å63413, Ångströmlaboratoriet, Lägerhyddsvägen 1, Uppsala</description>
+    </item>
+    
+  </channel>
+</rss>
