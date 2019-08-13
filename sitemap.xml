@@ -4,8 +4,13 @@
   
   <url>
     <loc>https://astro-alexis.github.io/</loc>
-    <lastmod>2019-08-01T15:02:20+02:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/appearances/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,6 +25,11 @@
   
   <url>
     <loc>https://astro-alexis.github.io/posters/cs20/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/spu-pae/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,11 +52,6 @@
   
   <url>
     <loc>https://astro-alexis.github.io/about/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/appearances/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   

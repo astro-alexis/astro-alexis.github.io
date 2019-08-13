@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>lolololo</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 15:02:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>appearances</title>
+      <link>https://astro-alexis.github.io/appearances/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/appearances/</guid>
+      <description>2019  2019.08.05 - Preliminary acceptance Europe testing of the CRIRES+ polarimeter at ESO Garching (Germany) 2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.04.01 - 1-week science visit and seminar at Université de Montpellier (France)  2018  2018.07.29 - Cool Stars 20 at Boston / Cambridge (USA) - poster 2018.05.14 - SunStars summer school at Banyuls sur Mer (France) 2018.05.01 - 2-week science visit at Université de Montpellier (France)  2017  2017.</description>
+    </item>
     
     <item>
       <title>research</title>
@@ -41,6 +50,16 @@ Useful links  PDF version of the poster Link to the paper on ADS  Summary of the
     </item>
     
     <item>
+      <title>CRIRES&#43;</title>
+      <link>https://astro-alexis.github.io/spu-pae/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/spu-pae/</guid>
+      <description>SpU PAE testing Tuesday 06 august 2019
+Wavelength calibration testing It is not sure what the status of the templates are: sent an email around to inquire. Answer from Christophe, who forwarded status of all templates. - Playing around with the deckers. It seems that the default encoder value for Decker 13 (100) is wrong: no light is coming thru . We&amp;rsquo;re looking at an updated value that works. New value has been implemented in the ICS.</description>
+    </item>
+    
+    <item>
       <title>Presentations from the Uppsala-Stockholm PhD days</title>
       <link>https://astro-alexis.github.io/uusu2014/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -58,15 +77,6 @@ Useful links  PDF version of the poster Link to the paper on ADS  Summary of the
       <description>Interests A bunch of unsorted keywords reflecting some of the things I do or take interest in.
 feminism, environment, hiking, vegetables, listener-supported radios, democracy, analog photography, anticipation books, world literature, cycling, trip-hop, downtempo, post-rock, nature, mountains, cross-country skiing, stars, baking pizzas, magnetic fields, dystopias, space, astronomy, robotic exploration, sharing is caring, design, typography.
 Design Some of my duties at Uppsala University have been to design websites and posters for conferences and outreach events.</description>
-    </item>
-    
-    <item>
-      <title>appearances</title>
-      <link>https://astro-alexis.github.io/appearances/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/appearances/</guid>
-      <description>2019  2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.04.01 - 1-week science visit and seminar at Université de Montpellier (France)  2018  2018.07.29 - Cool Stars 20 at Boston / Cambridge (USA) - poster 2018.05.14 - SunStars summer school at Banyuls sur Mer (France) 2018.05.01 - 2-week science visit at Université de Montpellier (France)  2017  2017.12.02 - 3-week science visit at ESO Garching (Germany) 2017.</description>
     </item>
     
     <item>
