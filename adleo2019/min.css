@@ -1,0 +1,12 @@
+html {
+  max-width:70ch;
+  padding:2ch;
+  margin:auto;
+  color:#333;
+  font-size:1.0em;
+  font-family: 'Roboto Mono';
+}
+
+img {
+  max-width: 100%;
+}
