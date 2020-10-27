@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alexis lavail</title>
@@ -18,11 +18,10 @@
       <pubDate>Tue, 01 Sep 2020 08:30:20 +0200</pubDate>
       
       <guid>https://astro-alexis.github.io/research/</guid>
-      <description>Research interests  Transit spectroscopy and exoplanetary atmospheres Magnetism of cool stars High-resolution near-infrared spectroscopy High-resolution optical spectropolarimetry and Zeeman-Doppler imaging Instrumentation  Refereed publications 
- The large-scale magnetic field of the eccentric pre-main-sequence binary system V1878 Ori.
+      <description>Research interests  Transit spectroscopy and exoplanetary atmospheres Magnetism of cool stars High-resolution near-infrared spectroscopy High-resolution optical spectropolarimetry and Zeeman-Doppler imaging Instrumentation  Refereed publications   The large-scale magnetic field of the eccentric pre-main-sequence binary system V1878 Ori.
 Lavail, A., Kochukhov, O., Hussain, G., et al.
 2020, MNRAS, 497, 632. ADS | DOI
- Characterising the surface magnetic fields of T Tauri stars with high-resolution near-infrared spectroscopy.
+  Characterising the surface magnetic fields of T Tauri stars with high-resolution near-infrared spectroscopy.
 Lavail, A.</description>
     </item>
     
@@ -63,7 +62,7 @@ The list of my publications can be found at this link (redirects to the ADS).</d
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/appearances/</guid>
-      <description>2020  2020-10-06 - Launch of the Thunberg fellowship programme at Swedish Collegium for Advanced Study, Uppsala (Sweden) 2020-05-26 - Public PhD defense at Polhemsalen, Ångströmlaboratoriet, Uppsala University (Sweden)  2019  2019.10.24 - Astronomdagarna 2019 at Stockholm University (Sweden) - poster 2019.08.05 - Preliminary acceptance Europe testing of the CRIRES+ polarimeter at ESO Garching (Germany) 2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.04.01 - 1-week science visit and seminar at Université de Montpellier (France) 2019-01-24 - Uppsala-Stockholm PhD days at Norreda Torp outside Uppsala (Sweden)</description>
+      <description>2020  2020-10-06 - Launch of the Thunberg fellowship programme at Swedish Collegium for Advanced Study, Uppsala (Sweden) 2020-05-26 - Public PhD defense at Polhemsalen, Ångströmlaboratoriet, Uppsala University (Sweden)  2019  2019.10.24 - Astronomdagarna 2019 at Stockholm University (Sweden) - poster 2019.08.05 - Preliminary acceptance Europe testing of the CRIRES+ polarimeter at ESO Garching (Germany) 2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.04.01 - 1-week science visit and seminar at Université de Montpellier (France) 2019-01-24 - Uppsala-Stockholm PhD days at Norreda Torp outside Uppsala (Sweden)  2018  2018.</description>
     </item>
     
     <item>
@@ -72,7 +71,7 @@ The list of my publications can be found at this link (redirects to the ADS).</d
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/design/astronomiska/</guid>
-      <description>    </description>
+      <description></description>
     </item>
     
     <item>
@@ -86,15 +85,6 @@ Useful links  PDF version of the poster Link to the paper on ADS  Summary of the
     </item>
     
     <item>
-      <title>Presentations from the Uppsala-Stockholm PhD days</title>
-      <link>https://astro-alexis.github.io/uusu2014/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/uusu2014/</guid>
-      <description> 10-11 april 2014, Uppsala Universitet Thursday 10 april 2014  Kai Yan Lee - Reionization and the cosmic dawn Hannes Jensen - Simulating observational probes of reionization Saghar Asadi - Gravitational millilensing as a probe of dark matter on subgalactic scales Beatriz Villarroel Rodriguez - What is an Active Galactic Nuclei? Sarah Jabbari - Origin of solar surface activity and sunspots Alexis Lavail - Investigation of stellar magnetic fields using infrared spectropolarimetry Lisa Rosén - Magnetic fields of cool active stars Naum Rusomarov - Magnetic fields of Ap stars from all four Stokes parameters  Friday 11 april 2014  Andreas Sandberg - Observations of Lyman alpha emitting galaxies at low and intermediate redshifts Florent Duval - Lyman alpha radiative transfer in Star-burst Galaxies Johannes Puschnig - Multi-wavelength studies of star-forming galaxies Thøger Juul Rivera-Thorsen - Neutral gas kinematics and geometry in young, starforming galaxies and its impact on Lyman alpha radiation transport Samuel Regandell - Spectral Synthesis for protoplanetary disk models Gianni Cataldi - Observations and modeling of debris disks Sara Lindgren - Accurate spectroscopy of M dwarfs, a possible link to understand planet formation Erik Aronson - Spectroscopic characterization of exoplanetary atmospheres  </description>
-    </item>
-    
-    <item>
       <title>contact</title>
       <link>https://astro-alexis.github.io/contact/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -104,6 +94,15 @@ Useful links  PDF version of the poster Link to the paper on ADS  Summary of the
 E-mail
 LinkedIn
 Visiting adress: room Å63413, Ångströmlaboratoriet, Lägerhyddsvägen 1, Uppsala</description>
+    </item>
+    
+    <item>
+      <title>Presentations from the Uppsala-Stockholm PhD days</title>
+      <link>https://astro-alexis.github.io/uusu2014/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/uusu2014/</guid>
+      <description>10-11 april 2014, Uppsala Universitet Thursday 10 april 2014  Kai Yan Lee - Reionization and the cosmic dawn Hannes Jensen - Simulating observational probes of reionization Saghar Asadi - Gravitational millilensing as a probe of dark matter on subgalactic scales Beatriz Villarroel Rodriguez - What is an Active Galactic Nuclei? Sarah Jabbari - Origin of solar surface activity and sunspots Alexis Lavail - Investigation of stellar magnetic fields using infrared spectropolarimetry Lisa Rosén - Magnetic fields of cool active stars Naum Rusomarov - Magnetic fields of Ap stars from all four Stokes parameters  Friday 11 april 2014  Andreas Sandberg - Observations of Lyman alpha emitting galaxies at low and intermediate redshifts Florent Duval - Lyman alpha radiative transfer in Star-burst Galaxies Johannes Puschnig - Multi-wavelength studies of star-forming galaxies Thøger Juul Rivera-Thorsen - Neutral gas kinematics and geometry in young, starforming galaxies and its impact on Lyman alpha radiation transport Samuel Regandell - Spectral Synthesis for protoplanetary disk models Gianni Cataldi - Observations and modeling of debris disks Sara Lindgren - Accurate spectroscopy of M dwarfs, a possible link to understand planet formation Erik Aronson - Spectroscopic characterization of exoplanetary atmospheres  </description>
     </item>
     
   </channel>
