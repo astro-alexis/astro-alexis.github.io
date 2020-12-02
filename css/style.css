@@ -12,7 +12,6 @@ body{
 	color:rgb(90,90,90)
 }
 h1,h2,h3{line-height:1.2}
-@media (prefers-color-scheme: dark){body{color:white;background:#333}, html{background: #333}}
 p > code{color: #FFFFFF; background:#000000; padding:2px}
 pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
 article{padding:24px 0}
