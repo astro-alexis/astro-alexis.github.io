@@ -8,12 +8,20 @@ body{
 	color:#444
 }
 h1,h2,h3{line-height:1.2}
-@media (prefers-color-scheme: dark){body{color:white;background:#444}a:link{color:#5bf}a:visited{color:#ccf}}
+@media (prefers-color-scheme: dark){body{color:white;background:#333}, html{background: #333}}
 p > code{color: #FFFFFF; background:#000000; padding:2px}
 pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
 article{padding:24px 0}
 .center {display: block;margin-left: auto;margin-right: auto;width: 100%;}
 img {display: block; max-width: 100%; height: auto;}
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
 figcaption {color: #888; font: 12px/1.5 monospace; text-align: center;}
 figure {margin: auto}
 
