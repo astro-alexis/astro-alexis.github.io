@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/appearances/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/brew/20-farmhouse-ale/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +20,6 @@
   <url>
     <loc>https://astro-alexis.github.io/brew/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/</loc>
-    <lastmod>2020-09-01T08:30:20+02:00</lastmod>
   </url>
   
   <url>
@@ -35,11 +40,6 @@
   <url>
     <loc>https://astro-alexis.github.io/cv/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/appearances/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
