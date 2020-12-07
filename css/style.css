@@ -27,9 +27,7 @@ img[src$='#center']
 figcaption {color: #888; font-size: 1.0rem; line-height: 1.4rem; text-align: center;}
 figure {margin: auto}
 
-a {outline: none; text-decoration: none; padding: 2px 1px 0; font-family: "Ubuntu", sans-serif; border-bottom: 1px solid; border-color: rgb(50, 104, 145);}
-a:link {color: rgb(50, 104, 145);}
-a:visited {color: #437A16;}
+a {color: #326891; outline: none; text-decoration: none; padding: 2px 1px 0; font-family: "Ubuntu", sans-serif; border-bottom: 1px solid; border-color: rgb(50, 104, 145);}
+a:link {color: #326891;}
 a:focus {border-bottom: 4px solid; border-color: #ff3e3e}
-a:hover {border-bottom: 0px solid; border-color: rgb(50, 104, 145);}
-a:active {background: #ffffff;color: #ff5c65;}
+a:hover {border-bottom: 0px solid;}
