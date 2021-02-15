@@ -11,7 +11,7 @@ body{
 	color:rgb(90,90,90)
 }
 
-h1,h2,h3{line-height:1.2}
+h1,h2,h3{line-height:1.2;}
 span {
 	font-family: "Ubuntu Mono", "Consolas", monospace;
 	font-weight: bold;
