@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>appearances</title>
+      <link>https://astro-alexis.github.io/appearances/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/appearances/</guid>
+      <description>2021  2021-03-02 - Cool Stars 20.5 conference, online - poster  2020  2020-12-01 - The magnetic field awakens conference, online 2020-10-06 - Launch of the Thunberg fellowship programme at Swedish Collegium for Advanced Study, Uppsala (Sweden) - talk 2020-05-26 - Public PhD defense at Polhemsalen, Ångströmlaboratoriet, Uppsala University (Sweden)  2019  2019.10.24 - Astronomdagarna 2019 at Stockholm University (Sweden) - poster 2019.08.05 - Preliminary acceptance Europe testing of the CRIRES+ polarimeter at ESO Garching (Germany) 2019.</description>
+    </item>
     
     <item>
       <title>CRIRES&#43; at CS 20.5</title>
@@ -38,15 +47,6 @@
       <guid>https://astro-alexis.github.io/cv/</guid>
       <description>Here you can download my academic CV (PDF document)
 The list of my publications can be found at this link (redirects to the ADS).</description>
-    </item>
-    
-    <item>
-      <title>appearances</title>
-      <link>https://astro-alexis.github.io/appearances/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/appearances/</guid>
-      <description>2020  2020-12-01 - The magnetic field awakens conference, online 2020-10-06 - Launch of the Thunberg fellowship programme at Swedish Collegium for Advanced Study, Uppsala (Sweden) - talk 2020-05-26 - Public PhD defense at Polhemsalen, Ångströmlaboratoriet, Uppsala University (Sweden)  2019  2019.10.24 - Astronomdagarna 2019 at Stockholm University (Sweden) - poster 2019.08.05 - Preliminary acceptance Europe testing of the CRIRES+ polarimeter at ESO Garching (Germany) 2019.06.17 - STARRY final conference at Leeds (United Kingdom) - talk 2019.</description>
     </item>
     
     <item>
