@@ -13,16 +13,6 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/posters/cs20p5/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/posters/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://astro-alexis.github.io/pres/cs20p5/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -84,6 +74,11 @@
   
   <url>
     <loc>https://astro-alexis.github.io/posters/cs20/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/posters/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
   
