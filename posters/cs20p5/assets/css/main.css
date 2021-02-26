@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i, 700");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,600");
 
 /*
 	Story by HTML5 UP
@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 110%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -130,7 +130,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -138,7 +138,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -146,7 +146,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -169,6 +169,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		text-decoration: underline;
+                color: rgb(50, 104, 145);
 	}
 
 		a:hover {
@@ -176,7 +177,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: 600;
 	}
 
 	em, i {
