@@ -169,7 +169,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		text-decoration: underline;
-                color: rgb(50, 104, 145);
+                color: rgb(50, 104, 145)!important;
 	}
 
 		a:hover {
