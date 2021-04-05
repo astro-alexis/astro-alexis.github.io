@@ -1,10 +1,12 @@
+@import url("stylesheet.css")
+
 html {overflow-y: scroll; background-color: #f0f0f0}
-header {font-family: monospace;}
+header {font-family: "Libertad";}
 body{
 	max-width:700px;
 	margin:40px auto;
 	padding:0 10px;
-	font-family: "Ubuntu", sans-serif;
+	font-family: "Libertad", sans-serif;
 	font-size: 1.1rem;
 	line-height: 1.7rem;
 	font-weight: 400;
@@ -13,7 +15,7 @@ body{
 
 h1,h2,h3{line-height:1.2;}
 span {
-	font-family: "Ubuntu Mono", "Consolas", monospace;
+	font-family: "Libertad", "Consolas", monospace;
 	font-weight: bold;
 }
 p > code{color: #FFFFFF; background:#000000; padding:2px}
@@ -32,7 +34,7 @@ img[src$='#center']
 figcaption {color: #888; font-size: 1.0rem; line-height: 1.4rem; text-align: center;}
 figure {margin: auto}
 
-a {color: #326891; outline: none; text-decoration: none; padding: 2px 1px 0; font-family: "Ubuntu", sans-serif; border-bottom: 1px solid; border-color: rgb(50, 104, 145);}
+a {color: #326891; outline: none; text-decoration: none; padding: 2px 1px 0; border-bottom: 1px solid; border-color: rgb(150, 154, 155);}
 a:link {color: #326891;}
 a:focus {border-bottom: 4px solid; border-color: #ff3e3e}
 a:hover {border-bottom: 0px solid;}

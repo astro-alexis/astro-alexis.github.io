@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Libertad';
+    src: url('libertad/subset-Libertad-Bold.woff2') format('woff2'),
+        url('libertad/subset-Libertad-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertad';
+    src: url('libertad/subset-Libertad-Book.woff2') format('woff2'),
+        url('libertad/subset-Libertad-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertad';
+    src: url('libertad/subset-Libertad-Light.woff2') format('woff2'),
+        url('libertad/subset-Libertad-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertad';
+    src: url('libertad/subset-Libertad-BookItalic.woff2') format('woff2'),
+        url('libertad/subset-Libertad-BookItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertad';
+    src: url('libertad/subset-Libertad-Medium.woff2') format('woff2'),
+        url('libertad/subset-Libertad-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
