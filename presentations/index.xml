@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentations on alexis lavail</title>
+    <link>https://astro-alexis.github.io/presentations/</link>
+    <description>Recent content in presentations on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>alexis lavail</copyright>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021 STScI Spring Symposium</title>
+      <link>https://astro-alexis.github.io/presentations/2021-stsci/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-stsci/</guid>
+      <description>2021-04-19 🠖 2021-04-23 | online  Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>2021 BCool meeting</title>
+      <link>https://astro-alexis.github.io/presentations/2021-bcool/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-bcool/</guid>
+      <description>2021-04-12 🠖 2021-04-14 | online  Conference website Slides from my presentation: coming soon  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20.5</title>
+      <link>https://astro-alexis.github.io/presentations/2021-cs20p5/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-cs20p5/</guid>
+      <description>2021-03-02 🠖 2021-03-04 | online  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Launch of the Thunberg Fellowship Programme</title>
+      <link>https://astro-alexis.github.io/presentations/2020-thunberg/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2020-thunberg/</guid>
+      <description>2020-10-06 | Swedish Collegium for Advanced Study, Uppsala (Sweden)  Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>PhD defense</title>
+      <link>https://astro-alexis.github.io/presentations/2020-defense/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2020-defense/</guid>
+      <description>2020-05-26 | Uppsala University (Sweden) The day I got my PhD, also my birthday if you want to know.
+ Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Astrnomdagarna</title>
+      <link>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
+      <description>2019-10-24 🠖 2019-10-26 | Stockholm University (Sweden)  Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>STARRY conference</title>
+      <link>https://astro-alexis.github.io/presentations/2019-starry/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-starry/</guid>
+      <description>2019-06-18 🠖 2019-06-21 | Leeds (UK)  Conference website Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20</title>
+      <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
+      <description>2018-07-28 🠖 2018-08-03 | Boston (USA)  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+    </item>
+    
+  </channel>
+</rss>
