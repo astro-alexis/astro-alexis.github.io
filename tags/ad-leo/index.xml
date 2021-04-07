@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ad leo on alexis lavail</title>
+    <link>https://astro-alexis.github.io/tags/ad-leo/</link>
+    <description>Recent content in ad leo on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>alexis lavail</copyright>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/tags/ad-leo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cool Stars 20</title>
+      <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
+      <description>2018-07-28 🠖 2018-08-03 | Boston (USA)  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+    </item>
+    
+  </channel>
+</rss>

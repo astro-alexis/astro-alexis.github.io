@@ -8,7 +8,37 @@
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/tags/crires&#43;/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/poster/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/presentations/2021-bcool/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/talk/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,16 +88,6 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/pres/cs20p5/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/pres/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://astro-alexis.github.io/about/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
@@ -78,13 +98,8 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/brew/20-farmhouse-ale/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/brew/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+    <loc>https://astro-alexis.github.io/tags/exoplanet-atmospheres/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,6 +118,11 @@
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/tags/stellar-magnetic-fields/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/adleo2019/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -110,26 +130,6 @@
   <url>
     <loc>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/poster/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -165,6 +165,11 @@
   <url>
     <loc>https://astro-alexis.github.io/posters/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/ad-leo/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

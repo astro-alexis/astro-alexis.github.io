@@ -68,15 +68,6 @@ Nam ante ante, imperdiet ut iaculis sit amet, gravida at magna. In sit amet nunc
     </item>
     
     <item>
-      <title>CRIRES&#43; at CS 20.5</title>
-      <link>https://astro-alexis.github.io/pres/cs20p5/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/pres/cs20p5/</guid>
-      <description>To be updated</description>
-    </item>
-    
-    <item>
       <title>about</title>
       <link>https://astro-alexis.github.io/about/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
@@ -93,20 +84,6 @@ Nam ante ante, imperdiet ut iaculis sit amet, gravida at magna. In sit amet nunc
       <guid>https://astro-alexis.github.io/cv/</guid>
       <description>Here you can download my academic CV (PDF document)
 The list of my publications can be found at this link (redirects to the ADS).</description>
-    </item>
-    
-    <item>
-      <title>#20 Swedish-hopped farmhouse ale</title>
-      <link>https://astro-alexis.github.io/brew/20-farmhouse-ale/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/brew/20-farmhouse-ale/</guid>
-      <description>Brew date: 2020-11-30
-Brewer: alexis
-Malt budget  1000 g wheat 1500 g light munich 2000 g	pilsner  Strike water 20 L at 75 deg, with some juniper branches
-Infused in a bucket with the grain, 68 deg. 11:40. Kept under wool blanket
-Warming 10 L sparge water
-Hops to chose from:  SWE26 Frebo 3.9 %AA &amp;lt;- SWE51 Klev 6.1 %AA &amp;lt;- SWE52 Brusbo	2.8 %AA SWE08 Spångby SWE?</description>
     </item>
     
     <item>
@@ -157,7 +134,8 @@ Lavail, A.</description>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
-      <description>2019-10-24 🠖 2019-10-26 | Stockholm University (Sweden)  Conference website PDF poster  🠔 back to presentations</description>
+      <description>2019-10-24 🠖 2019-10-26, at Stockholm University (Sweden)
+ Conference website PDF poster  🠔 back to presentations</description>
     </item>
     
     <item>

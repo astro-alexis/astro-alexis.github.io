@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stellar magnetic fields on alexis lavail</title>
+    <link>https://astro-alexis.github.io/tags/stellar-magnetic-fields/</link>
+    <description>Recent content in stellar magnetic fields on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>alexis lavail</copyright>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/tags/stellar-magnetic-fields/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD defense</title>
+      <link>https://astro-alexis.github.io/presentations/2020-defense/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2020-defense/</guid>
+      <description>2020-05-26 | Uppsala University (Sweden) The day I got my PhD, also my birthday if you want to know.
+ Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Astronomdagarna</title>
+      <link>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
+      <description>2019-10-24 🠖 2019-10-26, at Stockholm University (Sweden)
+ Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>STARRY conference</title>
+      <link>https://astro-alexis.github.io/presentations/2019-starry/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-starry/</guid>
+      <description>2019-06-18 🠖 2019-06-21 | Leeds (UK)  Conference website Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20</title>
+      <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
+      <description>2018-07-28 🠖 2018-08-03 | Boston (USA)  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+    </item>
+    
+  </channel>
+</rss>
