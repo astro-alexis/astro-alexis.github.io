@@ -13,12 +13,49 @@
     
     
     <item>
-      <title>2021 03 18_multilang</title>
+      <title>2021 STScI Spring Symposium</title>
+      <link>https://astro-alexis.github.io/presentations/2021-stsci/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-stsci/</guid>
+      <description>2021-04-19 🠖 2021-04-23 | online  Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>2021 BCool meeting</title>
+      <link>https://astro-alexis.github.io/presentations/2021-bcool/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-bcool/</guid>
+      <description>2021-04-12 🠖 2021-04-14 | online  Conference website Slides from my presentation: coming soon  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>The whisperer in darkness</title>
+      <link>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</guid>
+      <description>Bear in mind closely that I did not see any actual visual horror at the end. To say that a mental shock was the cause of what I inferred—that last straw which sent me racing out of the lonely Akeley farmhouse and through the wild domed hills of Vermont in a commandeered motor at night—is to ignore the plainest facts of my final experience. Notwithstanding the deep things I saw and heard, and the admitted vividness the impression produced on me by these things, I cannot prove even now whether I was right or wrong in my hideous inference.</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
       <link>https://astro-alexis.github.io/blog/2021-03-18_multilang/</link>
       <pubDate>Thu, 18 Mar 2021 17:48:23 +0100</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/2021-03-18_multilang/</guid>
-      <description>This is multilang.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget porta quam. Sed ac mi massa. Donec cursus, nisi a blandit volutpat, nisi ante ultricies ante, vel gravida ante diam non quam. Vestibulum fermentum mauris ac consectetur sagittis. Pellentesque id nulla vel tellus sodales mollis. Duis pulvinar urna eget euismod lacinia. Vestibulum varius tristique lacus bibendum euismod.
+Nam ante ante, imperdiet ut iaculis sit amet, gravida at magna. In sit amet nunc in orci aliquam viverra.</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20.5</title>
+      <link>https://astro-alexis.github.io/presentations/2021-cs20p5/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-cs20p5/</guid>
+      <description>2021-03-02 🠖 2021-03-04 | online  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
     </item>
     
     <item>
@@ -73,6 +110,15 @@ Hops to chose from:  SWE26 Frebo 3.9 %AA &amp;lt;- SWE51 Klev 6.1 %AA &amp;lt;- 
     </item>
     
     <item>
+      <title>Launch of the Thunberg Fellowship Programme</title>
+      <link>https://astro-alexis.github.io/presentations/2020-thunberg/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2020-thunberg/</guid>
+      <description>2020-10-06 | Swedish Collegium for Advanced Study, Uppsala (Sweden)  Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
       <title>research</title>
       <link>https://astro-alexis.github.io/research/</link>
       <pubDate>Tue, 01 Sep 2020 08:30:20 +0200</pubDate>
@@ -86,6 +132,16 @@ Lavail, A.</description>
     </item>
     
     <item>
+      <title>PhD defense</title>
+      <link>https://astro-alexis.github.io/presentations/2020-defense/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2020-defense/</guid>
+      <description>2020-05-26 | Uppsala University (Sweden) The day I got my PhD, also my birthday if you want to know.
+ Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
       <title>AD Leo. Observations from 2019</title>
       <link>https://astro-alexis.github.io/adleo2019/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
@@ -93,6 +149,15 @@ Lavail, A.</description>
       <guid>https://astro-alexis.github.io/adleo2019/</guid>
       <description>LSD Profiles We got 6 observations in 2019. Stokes V profiles shown below. It looks like amplitude-wise, the profiles are recovered most of the pre-2016 amplitude.   Stokes V profiles   The phase coverage is not great, we have four observations clustered at phase 0.7-0.8, one at 0.0, one around 0.5:
  0.00 0.46 2.72 1.80 1.81 1.81  ZDI I ran ZDI on the data anyhow, following same approach than for 2012 and 2016 data, with the same Stokes I filling factor value, regularisation parameters values, and Stokes V filling factor values.</description>
+    </item>
+    
+    <item>
+      <title>Astronomdagarna</title>
+      <link>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
+      <description>2019-10-24 🠖 2019-10-26 | Stockholm University (Sweden)  Conference website PDF poster  🠔 back to presentations</description>
     </item>
     
     <item>
@@ -127,6 +192,15 @@ Post adress: Alexis Lavail, Box 516, 75120 Uppsala (Sweden)</description>
     </item>
     
     <item>
+      <title>STARRY conference</title>
+      <link>https://astro-alexis.github.io/presentations/2019-starry/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2019-starry/</guid>
+      <description>2019-06-18 🠖 2019-06-21 | Leeds (UK)  Conference website Slides from my presentation  🠔 back to presentations</description>
+    </item>
+    
+    <item>
       <title>A sudden change of the global magnetic field of the active M-dwarf AD Leo</title>
       <link>https://astro-alexis.github.io/posters/cs20/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
@@ -134,6 +208,15 @@ Post adress: Alexis Lavail, Box 516, 75120 Uppsala (Sweden)</description>
       <guid>https://astro-alexis.github.io/posters/cs20/</guid>
       <description>Alexis Lavail, Oleg Kochukhov, and Gregg Wade A poster presented at the Cool Stars 20 conference
 Useful links  PDF version of the poster Link to the paper on ADS  Summary of the science in not-so-rigorous language Our aim was to get the first observations ever of a M-dwarf in all four Stokes parameters. This means one gets the intensity spectrum (Stokes I), the circularly polarized spectrum (Stokes V) and the two linearly polarized spectra (Stokes Q and U).</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20</title>
+      <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
+      <description>2018-07-28 🠖 2018-08-03 | Boston (USA)  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
     </item>
     
   </channel>

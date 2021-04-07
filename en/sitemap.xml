@@ -3,33 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://astro-alexis.github.io/blog/2021-03-18_multilang/</loc>
-    <lastmod>2021-03-18T17:48:23+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/blog/2021-03-18_multilang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/blog/2021-03-18_multilang/"
-                />
+    <loc>https://astro-alexis.github.io/presentations/2021-stsci/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/presentations/2021-bcool/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/presentations/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://astro-alexis.github.io/blog/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/2021-03-18_multilang/</loc>
     <lastmod>2021-03-18T17:48:23+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/blog/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/presentations/2021-cs20p5/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,13 +88,48 @@
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/presentations/2020-thunberg/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/research/</loc>
     <lastmod>2020-09-01T08:30:20+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/presentations/2020-defense/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/adleo2019/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/poster/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/tags/"
+                />
   </url>
   
   <url>
@@ -113,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://astro-alexis.github.io/presentations/2019-starry/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/posters/cs20/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +165,11 @@
   <url>
     <loc>https://astro-alexis.github.io/posters/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/presentations/2018-cs20/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,20 +183,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://astro-alexis.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/tags/"
                 />
   </url>
   
