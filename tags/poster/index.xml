@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/tags/poster/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 STScI Spring Symposium</title>
+      <link>https://astro-alexis.github.io/presentations/2021-stsci/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-stsci/</guid>
+      <description>2021-04-19 🠖 2021-04-23 | online  Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20.5</title>
+      <link>https://astro-alexis.github.io/presentations/2021-cs20p5/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2021-cs20p5/</guid>
+      <description>2021-03-02 🠖 2021-03-04 | online  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+    </item>
     
     <item>
       <title>Astronomdagarna</title>
@@ -19,6 +37,15 @@
       
       <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
       <description>2019-10-24 🠖 2019-10-26 | Stockholm University (Sweden)  Conference website PDF poster  🠔 back to presentations</description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20</title>
+      <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
+      <description>2018-07-28 🠖 2018-08-03 | Boston (USA)  Conference website Interactive poster PDF poster  🠔 back to presentations</description>
     </item>
     
   </channel>

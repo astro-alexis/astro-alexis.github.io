@@ -85,5 +85,19 @@ figure {margin: auto}
 
 a {color: #326891; outline: none; text-decoration: none; padding: 2px 1px 0; border-bottom: 1px solid; border-color: rgb(150, 154, 155);}
 a:link {color: #326891;}
-a:focus {border-bottom: 4px solid; border-color: #ff3e3e}
+a:focus {border-bottom: 4px solid;}
 a:hover {border-bottom: 0px solid;}
+
+.atag {
+    font-size: 1rem;
+    color: #666!important;
+    background-color: #ddd;
+    border-bottom: none;
+    font-weight: 500;
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+}
+
+.atag:hover {
+  color: #000!important;
+}
