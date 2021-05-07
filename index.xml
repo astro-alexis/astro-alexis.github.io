@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>It&#39;s a start</title>
+      <link>https://astro-alexis.github.io/blog/2021-04-05_start/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/2021-04-05_start/</guid>
+      <description>Welcome to this blog!
+Hello world I guess.
+Why this blog? Well, thanks for asking. You provide some sort of peer-pressure so that I regularly write something. I suck at writing, and I dislike it. So this will be a good kick in the butt. Expect some science, much nonsense, some landscapes, beer-brewing and other misc.
+How often should I write? How often will I write? Who knows &amp;hellip; But at least a post a week should be good, non?</description>
+    </item>
+    
+    <item>
       <title>2021 STScI Spring Symposium</title>
       <link>https://astro-alexis.github.io/presentations/2021-stsci/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
@@ -30,25 +42,6 @@
       <guid>https://astro-alexis.github.io/presentations/2021-bcool/</guid>
       <description>2021-04-12 🠖 2021-04-14, online
  Conference website Slides from my presentation Recorded talk on Youtube  🠔 back to presentations</description>
-    </item>
-    
-    <item>
-      <title>The whisperer in darkness</title>
-      <link>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</guid>
-      <description>Bear in mind closely that I did not see any actual visual horror at the end. To say that a mental shock was the cause of what I inferred—that last straw which sent me racing out of the lonely Akeley farmhouse and through the wild domed hills of Vermont in a commandeered motor at night—is to ignore the plainest facts of my final experience. Notwithstanding the deep things I saw and heard, and the admitted vividness the impression produced on me by these things, I cannot prove even now whether I was right or wrong in my hideous inference.</description>
-    </item>
-    
-    <item>
-      <title>Lorem ipsum</title>
-      <link>https://astro-alexis.github.io/blog/2021-03-18_multilang/</link>
-      <pubDate>Thu, 18 Mar 2021 17:48:23 +0100</pubDate>
-      
-      <guid>https://astro-alexis.github.io/blog/2021-03-18_multilang/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget porta quam. Sed ac mi massa. Donec cursus, nisi a blandit volutpat, nisi ante ultricies ante, vel gravida ante diam non quam. Vestibulum fermentum mauris ac consectetur sagittis. Pellentesque id nulla vel tellus sodales mollis. Duis pulvinar urna eget euismod lacinia. Vestibulum varius tristique lacus bibendum euismod.
-Nam ante ante, imperdiet ut iaculis sit amet, gravida at magna. In sit amet nunc in orci aliquam viverra.</description>
     </item>
     
     <item>

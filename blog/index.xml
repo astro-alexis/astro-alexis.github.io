@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on alexis lavail</title>
+    <title>bloggy blog on alexis lavail</title>
     <link>https://astro-alexis.github.io/blog/</link>
-    <description>Recent content in Blogs on alexis lavail</description>
+    <description>Recent content in bloggy blog on alexis lavail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Thu, 18 Mar 2021 17:48:23 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2021 03 18_multilang</title>
-      <link>https://astro-alexis.github.io/blog/2021-03-18_multilang/</link>
-      <pubDate>Thu, 18 Mar 2021 17:48:23 +0100</pubDate>
+      <title>It&#39;s a start</title>
+      <link>https://astro-alexis.github.io/blog/2021-04-05_start/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://astro-alexis.github.io/blog/2021-03-18_multilang/</guid>
-      <description>This is multilang.</description>
+      <guid>https://astro-alexis.github.io/blog/2021-04-05_start/</guid>
+      <description>Welcome to this blog!
+Hello world I guess.
+Why this blog? Well, thanks for asking. You provide some sort of peer-pressure so that I regularly write something. I suck at writing, and I dislike it. So this will be a good kick in the butt. Expect some science, much nonsense, some landscapes, beer-brewing and other misc.
+How often should I write? How often will I write? Who knows &amp;hellip; But at least a post a week should be good, non?</description>
     </item>
     
   </channel>

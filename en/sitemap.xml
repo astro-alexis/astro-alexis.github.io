@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/blog/2021-04-05_start/</loc>
+    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/presentations/2021-stsci/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -55,16 +60,6 @@
   <url>
     <loc>https://astro-alexis.github.io/blog/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/blog/2021-04-05_lovecraft/</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/blog/2021-03-18_multilang/</loc>
-    <lastmod>2021-03-18T17:48:23+01:00</lastmod>
   </url>
   
   <url>
