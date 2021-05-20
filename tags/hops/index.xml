@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hops on alexis lavail</title>
+    <link>https://astro-alexis.github.io/tags/hops/</link>
+    <description>Recent content in hops on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>alexis lavail</copyright>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/tags/hops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lappis humlegården</title>
+      <link>https://astro-alexis.github.io/blog/humlegarden/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/humlegarden/</guid>
+      <description>As a homebrewer, I am interested in the four basic ingredients that we combine to make beer:
+ water malt hops yeast  The tap water in Stockholm comes from lake Mälaren and is excellent. Malt I can buy locally from Swedish maltsters (e.g Warbro Kvarn). Amazing yeasts can be found too, like the Norwegian kveik yeast that can be dryed &amp;amp; re-used from batch to batch.
+What about hops though?</description>
+    </item>
+    
+  </channel>
+</rss>

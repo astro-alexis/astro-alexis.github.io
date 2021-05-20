@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>brewing</title>
+      <link>https://astro-alexis.github.io/tags/brewing/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/brewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gardening</title>
+      <link>https://astro-alexis.github.io/tags/gardening/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/gardening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hops</title>
+      <link>https://astro-alexis.github.io/tags/hops/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/hops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>crires&#43;</title>
