@@ -1,12 +1,14 @@
 
 html {overflow-y: scroll; background-color: #f0f0f0}
+
 header {font-family: helvetica, sans-serif;}
+
 body{
 	max-width:800px;
 	margin:40px auto;
 	padding:0 10px;
-	font-family: helvetica, sans-serif;
-	font-size: 1.25rem;
+	font-family: helvetica, "Roboto", sans-serif;
+	font-size: 1.2rem;
 	line-height: 1.9rem;
 	font-weight: 400;
 	color:rgb(50,50,50)
@@ -19,7 +21,7 @@ time {
 }
 
 
-h1,h2,h3{line-height:1.2; color: rgb(80,80,80); }
+h1,h2,h3{line-height:1.2; color: rgb(80,80,80);}
 
 h2 a {
     border-bottom: none;
@@ -30,6 +32,7 @@ span {
 	font-family: "Helvetica", sans-serif;
 	font-weight: bold;
 }
+
 p > code{color: #FFFFFF; background:#000000; padding:2px}
 pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
 article{padding:24px 0}
@@ -46,11 +49,8 @@ img[src$='#center']
 figcaption {color: #888; font-size: 1.0rem; line-height: 1.4rem; text-align: center;}
 figure {margin: auto}
 
-a {color: #326891; outline: none; text-decoration: none; padding: 2px 1px 0; border-bottom: 1px solid; border-color: rgb(150, 154, 155);}
-a:link {color: #326891;}
-a:focus {border-bottom: 4px solid;}
-a:hover {border-bottom: 0px solid;}
-
+a {color: rgb(50, 104, 145);}
+a:hover {color: rgb(200, 14, 145);}
 .atag {
     font-size: 1rem;
     color: #555!important;
@@ -61,6 +61,7 @@ a:hover {border-bottom: 0px solid;}
     padding-left: 0.5rem;
     padding-top: 0.3rem;
     padding-bottom: 0.1rem;
+    text-decoration: none;
 }
 
 .atag:hover {
@@ -70,4 +71,8 @@ a:hover {border-bottom: 0px solid;}
 
 hr.light {
     border: 1px dashed #cccccc;
+}
+
+blockquote {
+    font-family: "Bitstream Charter", "Charter", "Georgia", serif;
 }
