@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on alexis lavail</title>
+    <link>https://astro-alexis.github.io/tags/design/</link>
+    <description>Recent content in design on alexis lavail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>alexis lavail</copyright>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astro-alexis.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Typography</title>
+      <link>https://astro-alexis.github.io/blog/typography/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/typography/</guid>
+      <description>Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.
+There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already. Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.</description>
+    </item>
+    
+  </channel>
+</rss>

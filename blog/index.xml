@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Typography</title>
+      <link>https://astro-alexis.github.io/blog/typography/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/typography/</guid>
+      <description>Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.
+There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already. Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.</description>
+    </item>
+    
+    <item>
       <title>Standing desk</title>
       <link>https://astro-alexis.github.io/blog/standing-desk/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
