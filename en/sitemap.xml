@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/cv/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/tags/design/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url>
@@ -163,32 +183,12 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://astro-alexis.github.io/appearances/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://astro-alexis.github.io/about/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/cv/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   

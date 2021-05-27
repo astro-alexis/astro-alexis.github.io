@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cv</title>
+      <link>https://astro-alexis.github.io/cv/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/cv/</guid>
+      <description>Here you can download my academic CV (PDF document)
+The list of my publications can be found at this link (redirects to the ADS).
+Short CV Research expertise  Stellar magnetic fields: Zeeman broadening and Zeeman Doppler Imaging High-resolution spectroscopy and spectropolarimetry, optical and near-infrared Astronomical instrumentation  Research positions  🇸🇪 Thunberg fellow, Uppsala University &amp;amp; Swedish Collegium for Advanced Study, Sep 2020 - 🇸🇪 🇩🇪 PhD student, Uppsala University &amp;amp; European Southern Observatory, Oct 2013 - May 2020 🇳🇱 ESA Stagiaire, European Space Agency ESTEC, Netherlands, Mar 2013 - Jun 2013  Education  🇸🇪 🇩🇪 PhD in astronomy at Uppsala University.</description>
+    </item>
     
     <item>
       <title>Typography</title>
@@ -130,17 +141,6 @@ How often should I write? How often will I write? Who knows &amp;hellip; But at 
       
       <guid>https://astro-alexis.github.io/about/</guid>
       <description>Who am I? I grew up in Southern France, where the Pyrénées mountain range meet the Mediterranean sea, also where there is the biggest oak barrel in the world. I studied in Perpignan 🇫🇷, Marseille 🇫🇷, Uppsala 🇸🇪, Paris/Meudon/Orsay 🇫🇷. I shortly worked at the European Space Agency in Noordwijk 🇳🇱, qualifying the Descent Camera for the Exomars 2016 lander (which made an impressive crater on Mars) before completing a PhD in astronomy at Uppsala University 🇸🇪 with a 1-year studentship at the European Southern Observatory in Garching near München 🇩🇪🍺.</description>
-    </item>
-    
-    <item>
-      <title>cv</title>
-      <link>https://astro-alexis.github.io/cv/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/cv/</guid>
-      <description>Here you can download my academic CV (PDF document)
-The list of my publications can be found at this link (redirects to the ADS).
-Short CV Research positions  🇸🇪 Thunberg fellow, Uppsala University and the Swedish Collegium for Advanced Study, Sweden, starting Sep 2020 🇸🇪 🇩🇪 PhD student, Uppsala University, Sweden, and European Southern Observatory, Germany, Oct 2013 - May 2020 🇳🇱 ESA Stagiaire, European Space Agency ESTEC, Netherlands, Mar 2013 - Jun 2013  Education  🇸🇪 🇩🇪 PhD in astronomy at Uppsala University.</description>
     </item>
     
     <item>
