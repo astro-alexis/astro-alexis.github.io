@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>flora</title>
+      <link>https://astro-alexis.github.io/tags/flora/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/flora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://astro-alexis.github.io/tags/nature/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://astro-alexis.github.io/tags/photo/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/photo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>links</title>
@@ -81,33 +108,6 @@
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/tags/films/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flora</title>
-      <link>https://astro-alexis.github.io/tags/flora/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/tags/flora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature</title>
-      <link>https://astro-alexis.github.io/tags/nature/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/tags/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photo</title>
-      <link>https://astro-alexis.github.io/tags/photo/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/tags/photo/</guid>
       <description></description>
     </item>
     
