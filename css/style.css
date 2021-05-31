@@ -49,7 +49,20 @@ figcaption {color: #888; font-size: 1.0rem; line-height: 1.4rem; text-align: cen
 figure {margin: auto}
 
 a {color: rgb(50, 104, 145);}
-a:hover {color: rgb(200, 14, 145);}
+a:hover {color: rgb(200, 124, 145);}
+
+nav a, nav span {
+padding: 0.5rem 0.5rem 0.5rem 0.5rem; 
+}
+a.active {
+    color: #ffffff;
+    background: rgb(50, 104, 145);
+    font-weight: bold;
+    text-decoration: none;
+}
+a.active:hover {
+    background: rgb(200, 124, 145);
+}
 .atag {
     font-size: 1rem;
     color: #555!important;
