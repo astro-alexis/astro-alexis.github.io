@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bloggy blog on alexis lavail</title>
+    <title>Blog on alexis lavail</title>
     <link>https://astro-alexis.github.io/blog/</link>
-    <description>Recent content in bloggy blog on alexis lavail</description>
+    <description>Recent content in Blog on alexis lavail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
@@ -11,6 +11,16 @@
     
 	<atom:link href="https://astro-alexis.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A voté</title>
+      <link>https://astro-alexis.github.io/blog/a-vote/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/a-vote/</guid>
+      <description>Yesterday I biked to the French embassy in Stockholm to vote for conseillers consulaires, consular advisers. Their mandate is to vote in the elections for the French senate, advise French policy-makers on matters affecting French citizens abroad, and provide help to the French citizens abroad.
+These elections are rather low-key, but I realized that it is one of the election where my vote has the largest influence: probably around 2000 people voted in total.</description>
+    </item>
     
     <item>
       <title>Catalan humour - Manuel Valls</title>
