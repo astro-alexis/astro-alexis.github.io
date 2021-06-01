@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>culture on alexis lavail</title>
-    <link>https://astro-alexis.github.io/tags/culture/</link>
-    <description>Recent content in culture on alexis lavail</description>
+    <title>music on alexis lavail</title>
+    <link>https://astro-alexis.github.io/tags/music/</link>
+    <description>Recent content in music on alexis lavail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
     <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://astro-alexis.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://astro-alexis.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <guid>https://astro-alexis.github.io/blog/a-year-of-records/</guid>
       <description>Around a year ago, I defended my PhD thesis 🥳! To celebrate, my kind colleagues offered me a record player. Since then, I bought quite some records, second-hand when possible, discogs has been a great source in these pandemics time.
 When I was younger, I had cassettes, then CDs. When I got access to internet, I started using P2P, torrents, and streaming services such as Grooveshark, Spotify, or Deezer. Having now this record player is a welcomed return to playing music on a physical medium.</description>
-    </item>
-    
-    <item>
-      <title>Les misérables</title>
-      <link>https://astro-alexis.github.io/blog/lesmiserables/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/blog/lesmiserables/</guid>
-      <description>I recently re-read Les Misérables from Victor Hugo. As a Frenchperson, it is of course a must-read, having had to idolize Victor Hugo all through schoolyears and beyond.
-I am not the biggest fan, but I must say that the guy can write. Some sentences just resonate with me.
- À ses pieds ce qu’on peut cultiver et cueillir ; sur sa tête ce qu’on peut étudier et méditer; quelques fleurs sur la terre et toutes les étoiles dans le ciel.</description>
     </item>
     
   </channel>

@@ -88,3 +88,8 @@ hr.light {
 blockquote {
     font-family: "Noto Serif", "Times New Roman", Times, serif;
 }
+
+th, thead {
+    text-align: "left";
+}
+
