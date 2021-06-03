@@ -3,23 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://astro-alexis.github.io/blog/bookmark-cleanup-2/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/links/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://astro-alexis.github.io/tags/music/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,6 +20,26 @@
                 hreflang="en"
                 href="https://astro-alexis.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/travailler/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/work/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/bookmark-cleanup-2/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/links/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,11 +154,6 @@
   
   <url>
     <loc>https://astro-alexis.github.io/blog/standing-desk/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/work/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url>
   

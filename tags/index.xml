@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://astro-alexis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>music</title>
+      <link>https://astro-alexis.github.io/tags/music/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://astro-alexis.github.io/tags/work/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>links</title>
@@ -18,15 +36,6 @@
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/tags/links/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://astro-alexis.github.io/tags/music/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/tags/music/</guid>
       <description></description>
     </item>
     
@@ -135,15 +144,6 @@
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/tags/dyi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://astro-alexis.github.io/tags/work/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://astro-alexis.github.io/tags/work/</guid>
       <description></description>
     </item>
     
