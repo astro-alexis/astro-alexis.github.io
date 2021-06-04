@@ -85,8 +85,14 @@ hr.light {
     border: 1px dashed #cccccc;
 }
 
-blockquote {
-    font-family: "Noto Serif", "Times New Roman", Times, serif;
+blockquote{
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    background-color: #f3f3f3!important;
+    padding-left: 2rem;
+    padding-top:0.5rem;
+    padding-bottom: 0.3rem;
+    padding-right: 2rem;   
+    border-left: 15px solid #ffc733;
 }
 
 th, thead {
