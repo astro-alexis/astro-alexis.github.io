@@ -7,18 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catalan humour - Manuel Valls</title>
       <link>https://astro-alexis.github.io/blog/catalan-humour/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/catalan-humour/</guid>
-      <description>Manuel Valls, a man you cannot trust, is coming back to France after a short stint in Barcelona politics, eyeing the next French presidential elections. Catalans seem happy to get rid of him. The video is a cover of this infamous song.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Manuel Valls, a &lt;a href=&#34;https://www.reuters.com/article/us-france-election-idUSKBN1700K5&#34;&gt;man you cannot trust&lt;/a&gt;, is coming back to France after a short stint in Barcelona politics, eyeing the next French presidential elections. &lt;a href=&#34;https://www.youtube.com/watch?v=V2WIG8bmO9s&#34;&gt;Catalans seem happy&lt;/a&gt; to get rid of him. The video is a cover of &lt;a href=&#34;https://www.youtube.com/watch?v=QpbHdIrtpNo&#34;&gt;this infamous song&lt;/a&gt;.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

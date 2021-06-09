@@ -7,19 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/ad-leo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/ad-leo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cool Stars 20</title>
       <link>https://astro-alexis.github.io/presentations/2018-cs20/</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
-      <description>2018-07-28 🠖 2018-08-03 in Boston (USA)
- Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2018-07-28 🠖 2018-08-03 in Boston (USA)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://coolstars20.cfa.harvard.edu/&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../posters/cs20/&#34;&gt;Interactive poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../posters/cs20/files/cs20_adleo.pdf&#34;&gt;PDF poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

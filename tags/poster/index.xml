@@ -7,19 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/poster/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/poster/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 STScI Spring Symposium</title>
       <link>https://astro-alexis.github.io/presentations/2021-stsci/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2021-stsci/</guid>
-      <description>2021-04-19 🠖 2021-04-23, online
- Conference website PDF poster  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2021-04-19 🠖 2021-04-23,  online&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stsci.edu/contents/events/stsci/2021/april/towards-the-comprehensive-characterization-of-exoplanets&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./alexis-STScI-poster.pdf&#34;&gt;PDF poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -28,8 +34,19 @@
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2021-cs20p5/</guid>
-      <description>2021-03-02 🠖 2021-03-04, online
- Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2021-03-02 🠖 2021-03-04, online&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://coolstars20.cfa.harvard.edu/cs20half/index.html&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../posters/cs20p5/&#34;&gt;Interactive poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenodo.org/record/4562690&#34;&gt;PDF poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -38,8 +55,19 @@
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2019-astronomdagarna/</guid>
-      <description>2019-10-24 🠖 2019-10-26, at Stockholm University (Sweden)
- Conference website PDF poster  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2019-10-24 🠖 2019-10-26,
+at Stockholm University (Sweden)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.astro.su.se/om-oss/evenemang/astronomdagarna-2019&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./astro2019web.pdf&#34;&gt;PDF poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -48,8 +76,19 @@
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2018-cs20/</guid>
-      <description>2018-07-28 🠖 2018-08-03 in Boston (USA)
- Conference website Interactive poster PDF poster  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2018-07-28 🠖 2018-08-03 in Boston (USA)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://coolstars20.cfa.harvard.edu/&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../posters/cs20/&#34;&gt;Interactive poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../posters/cs20/files/cs20_adleo.pdf&#34;&gt;PDF poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

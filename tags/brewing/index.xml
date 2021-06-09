@@ -7,18 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/brewing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/brewing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hops growing</title>
       <link>https://astro-alexis.github.io/blog/hops-growing/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/hops-growing/</guid>
-      <description>The hops planted early May are growing fast and seriously climbing that pole.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/hops-growing/hops.jpg"></img>
+            
+        
+
+        &lt;p&gt;&lt;a href=&#34;https://astro-alexis.github.io/blog/humlegarden/&#34;&gt;The hops&lt;/a&gt; planted early May are growing fast and seriously climbing that pole.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -27,9 +33,38 @@
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/humlegarden/</guid>
-      <description>As a homebrewer, I am interested in the four basic ingredients that we combine to make beer:
- water malt hops yeast  The tap water in Stockholm comes from lake Mälaren and is excellent. Malt I can buy locally from Swedish maltsters (e.g Warbro Kvarn). Amazing yeasts can be found too, like the Norwegian kveik yeast that can be dryed &amp;amp; re-used from batch to batch.
-What about hops though?</description>
+     
+      <description>
+        
+            
+                <img src="/blog/humlegarden/humlegard.jpg"></img>
+            
+                <img src="/blog/humlegarden/humlegard2.jpg"></img>
+            
+        
+
+        &lt;p&gt;As a homebrewer, I am interested in the four basic ingredients that we combine to make beer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;water&lt;/li&gt;
+&lt;li&gt;malt&lt;/li&gt;
+&lt;li&gt;hops&lt;/li&gt;
+&lt;li&gt;yeast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The tap water in Stockholm comes from lake Mälaren and &lt;a href=&#34;https://www.stockholmvattenochavfall.se/globalassets/pdf1/rapporter/dricksvatten/dricksvattenkvalitet/kval-dekl-nor-2020-med-logga-2021-03-31.pdf&#34;&gt;is excellent&lt;/a&gt;. Malt I can buy locally from Swedish maltsters (e.g &lt;a href=&#34;https://warbrokvarn.se/&#34;&gt;Warbro Kvarn&lt;/a&gt;). Amazing yeasts can be found too, like the &lt;a href=&#34;https://www.garshol.priv.no/blog/393.html&#34;&gt;Norwegian kveik yeast&lt;/a&gt; that can be dryed &amp;amp; re-used from batch to batch.&lt;/p&gt;
+&lt;p&gt;What about hops though?&lt;/p&gt;
+&lt;p&gt;Swedish production is rather small, expensive, and not too easy to find, although hops had been extensively cultivated in Sweden for centuries. Actually, for a very long time, farmers were bound by law to cultivate a certain amount of hops for the crown. However in the 20th century, hops were not grown commercially in Sweden on a large scale any longer and imported instead.&lt;/p&gt;
+&lt;p&gt;In the last decades, some researchers &lt;a href=&#34;https://www.nordiskamuseet.se/artiklar/kartorna-visar-vagen&#34;&gt;made use of historical maps&lt;/a&gt; to hunt down old hop garden from the 17th century, go to the sites and look for surviving hop plants. And they found them!&lt;/p&gt;
+&lt;p&gt;Some of these plants are now grown in &lt;a href=&#34;https://www.nordiskamuseet.se/slott-gardar/julita-gard&#34;&gt;Julita Gård&lt;/a&gt;, the garden of the Nordic museum. Some are even available for sale. I bought four sorts which I have now planted in my area: Svalöf E (modern variety from the 30s bred in Southern Sweden), and three historical varieties from the 1600-1700s Uppland region: Spångby, Olarsbo, and Hanunda.&lt;/p&gt;
+&lt;p&gt;Hops grow tall, and will climb on 5-metre spruce trunks, that I kindly got from the neighbouring national park. If all goes well, harvest in late august!&lt;/p&gt;
+&lt;p&gt;This has been a funny pet-project to set-up, involving negotiations with the landlord (Student housing in Stockholm, SSSB), the local tenant association, and the neighbouring national park. It has helped tremendously that the researcher involved in finding up these old hops is, by complete chance, my neighbour.&lt;/p&gt;
+&lt;p&gt;Some further reading (mostly in Swedish):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slu.se/centrumbildningar-och-projekt/programmet-for-odlad-mangfald-pom/publikationer/bocker/humle-i-den-svenska-nationella-genbanken/&#34;&gt;Humle i den svenska nationella genbanken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://humleriket.se/&#34;&gt;Humleriket&lt;/a&gt; who sells historical Swedish hops in Uppsala&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allmogens.se/en/humleskorden/&#34;&gt;Hops in the old peasant society&lt;/a&gt;, an article with fantastic pictures.&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
   </channel>

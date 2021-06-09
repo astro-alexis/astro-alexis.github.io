@@ -7,19 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typography</title>
       <link>https://astro-alexis.github.io/blog/typography/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/typography/</guid>
-      <description>Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.
-There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already. Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/typography/fonts.jpg"></img>
+            
+        
+
+        &lt;p&gt;Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.&lt;/p&gt;
+&lt;p&gt;There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already.
+Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.&lt;/p&gt;
+&lt;p&gt;Some links to free fonts, in case you need them in your projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sans-sérif: &lt;a href=&#34;https://fonts.google.com/specimen/Roboto&#34;&gt;Roboto&lt;/a&gt;, &lt;a href=&#34;https://bboxtype.com/typefaces/FiraGO/#!layout=specimen&#34;&gt;FiraGo&lt;/a&gt;, &lt;a href=&#34;https://adobe-fonts.github.io/source-sans/&#34;&gt;Source Sans Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Sans&lt;/a&gt;, &lt;a href=&#34;https://www.huertatipografica.com/en/fonts/alegreya-sans-ht&#34;&gt;Alegreya Sans&lt;/a&gt;, &lt;a href=&#34;https://www.omnibus-type.com/fonts/chivo/&#34;&gt;Chivo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sérif: &lt;a href=&#34;https://adobe-fonts.github.io/source-serif/&#34;&gt;Source Serif Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Serif&lt;/a&gt;, &lt;a href=&#34;https://www.fontsquirrel.com/fonts/gandhi-serif&#34;&gt;Gandhi Serif&lt;/a&gt;, &lt;a href=&#34;https://www.huertatipografica.com/en/fonts/alegreya-ht-pro&#34;&gt;Alegreya&lt;/a&gt;, &lt;a href=&#34;https://www.omnibus-type.com/fonts/manuale/&#34;&gt;Manuale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Monospace: &lt;a href=&#34;https://fonts.google.com/specimen/Roboto+Mono&#34;&gt;Roboto Mono&lt;/a&gt;, &lt;a href=&#34;http://adobe-fonts.github.io/source-code-pro/&#34;&gt;Source Code Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Mono&lt;/a&gt;, &lt;a href=&#34;https://github.com/IBM/plex/releases&#34;&gt;IBM Plex Mono&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There&amp;rsquo;s plenty more, but I&amp;rsquo;ll stop here ;)&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

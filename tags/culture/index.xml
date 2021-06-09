@@ -7,19 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A year of records</title>
       <link>https://astro-alexis.github.io/blog/a-year-of-records/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/a-year-of-records/</guid>
-      <description>Around a year ago, I defended my PhD thesis 🥳! To celebrate, my kind colleagues offered me a record player. Since then, I bought quite some records, second-hand when possible, discogs has been a great source in these pandemics time.
-When I was younger, I had cassettes, then CDs. When I got access to internet, I started using P2P, torrents, and streaming services such as Grooveshark, Spotify, or Deezer. Having now this record player is a welcomed return to playing music on a physical medium.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/a-year-of-records/records.png"></img>
+            
+        
+
+        &lt;p&gt;Around a year ago, I defended my PhD thesis 🥳! To celebrate, my kind colleagues offered me a record player. Since then, I bought quite some records, second-hand when possible, &lt;a href=&#34;https://www.discogs.com&#34;&gt;discogs&lt;/a&gt; has been a great source in these pandemics time.&lt;/p&gt;
+&lt;p&gt;When I was younger, I had cassettes, then CDs. When I got access to internet, I started using P2P, torrents, and streaming services such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Grooveshark&#34;&gt;Grooveshark&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Spotify&#34;&gt;Spotify&lt;/a&gt;, or &lt;a href=&#34;https://en.wikipedia.org/wiki/Deezer&#34;&gt;Deezer&lt;/a&gt;. Having now this record player is a welcomed return to playing music on a physical medium.&lt;/p&gt;
+&lt;p&gt;Sure you can&amp;rsquo;t listen to your favourite playlist, but I always liked to listen to entire records, and it is just great to have a small device that &lt;strong&gt;only&lt;/strong&gt; plays the music. Listening to music is now a nice ritual, not just a click.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -28,9 +35,22 @@ When I was younger, I had cassettes, then CDs. When I got access to internet, I 
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/lesmiserables/</guid>
-      <description>I recently re-read Les Misérables from Victor Hugo. As a Frenchperson, it is of course a must-read, having had to idolize Victor Hugo all through schoolyears and beyond.
-I am not the biggest fan, but I must say that the guy can write. Some sentences just resonate with me.
- À ses pieds ce qu’on peut cultiver et cueillir ; sur sa tête ce qu’on peut étudier et méditer; quelques fleurs sur la terre et toutes les étoiles dans le ciel.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I recently re-read &lt;a href=&#34;https://fr.wikipedia.org/wiki/Les_Mis%C3%A9rables&#34;&gt;&lt;em&gt;Les Misérables&lt;/em&gt;&lt;/a&gt; from Victor Hugo. As a Frenchperson, it is of course a must-read, having had to idolize Victor Hugo all through schoolyears and beyond.&lt;/p&gt;
+&lt;p&gt;I am not the biggest fan, but I must say that the guy can write. Some sentences just resonate with me.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;À ses pieds ce qu’on peut cultiver et cueillir ; sur sa tête ce qu’on peut étudier et méditer; quelques fleurs sur la terre et toutes les étoiles dans le ciel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Translated &lt;a href=&#34;https://en.wikisource.org/wiki/Les_Mis%C3%A9rables/Volume_1/Book_First/Chapter_13&#34;&gt;in English&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At one&amp;rsquo;s feet that which can be cultivated and plucked; over head that which one can study and meditate upon: some flowers on earth, and all the stars in the sky.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you want to watch it on screen, I recommend &lt;a href=&#34;https://www.criterion.com/films/879-les-miserables&#34;&gt;the adaptation from 1934&lt;/a&gt; by Raymond Bernard. It&amp;rsquo;s a very &lt;a href=&#34;https://www.criterion.com/current/posts/2604-from-the-eclipse-shelf-les-mis-rables&#34;&gt;good one&lt;/a&gt;.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

@@ -7,18 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/nature/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swim season</title>
       <link>https://astro-alexis.github.io/blog/swim-season/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/swim-season/</guid>
-      <description>With the warm days, swim season is upon us in Stockholm! I went swimming every day since last Saturday, it is glorious. The water in the sea was still quite cold, around 13-14 degrees. In Brunnsviken though, it is perfect at around 18-19 degrees !</description>
+     
+      <description>
+        
+            
+                <img src="/blog/swim-season/swim.jpg"></img>
+            
+        
+
+        &lt;p&gt;With the warm days, swim season is upon us in Stockholm! I went swimming every day since last Saturday, it is &lt;strong&gt;glorious&lt;/strong&gt;. The water in the sea was still quite cold, around 13-14 degrees. In &lt;a href=&#34;https://en.wikipedia.org/wiki/Brunnsviken&#34;&gt;Brunnsviken&lt;/a&gt; though, it is perfect at around 18-19 degrees !&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -27,7 +33,17 @@
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/forest-flowers/</guid>
-      <description>Spring is now definitely here 🥳!</description>
+     
+      <description>
+        
+            
+                <img src="/blog/forest-flowers/flowers.jpg"></img>
+            
+        
+
+        &lt;p&gt;Spring is now definitely here 🥳!&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -36,7 +52,17 @@
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/kungsangslilja/</guid>
-      <description>A pretty picture today, with one of my favourite flower: kungsängslilja in Swedish (and a great name in French: Fritillaire pintade). It is the official flower of Uppland province, which encompasses Uppsala.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/kungsangslilja/kungsangslilja.jpg"></img>
+            
+        
+
+        &lt;p&gt;A pretty picture today, with one of my favourite flower: &lt;a href=&#34;https://en.wikipedia.org/wiki/Fritillaria_meleagris&#34;&gt;kungsängslilja&lt;/a&gt; in Swedish (and a great name in French: &lt;em&gt;Fritillaire pintade&lt;/em&gt;). It is the official flower of Uppland province, which encompasses Uppsala.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

@@ -7,19 +7,99 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/posters/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/posters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A sudden change of the global magnetic field of the active M-dwarf AD Leo</title>
       <link>https://astro-alexis.github.io/posters/cs20/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/posters/cs20/</guid>
-      <description>Alexis Lavail, Oleg Kochukhov, and Gregg Wade A poster presented at the Cool Stars 20 conference
-Useful links  PDF version of the poster Link to the paper on ADS  Summary of the science in not-so-rigorous language Our aim was to get the first observations ever of a M-dwarf in all four Stokes parameters. This means one gets the intensity spectrum (Stokes I), the circularly polarized spectrum (Stokes V) and the two linearly polarized spectra (Stokes Q and U).</description>
+     
+      <description>
+        
+            
+                <img src="/posters/cs20/img/adleo_epochs_norepeat_2016.svg"></img>
+            
+                <img src="/posters/cs20/img/composite_map_polar.svg.png"></img>
+            
+                <img src="/posters/cs20/img/di_spt_black.gif"></img>
+            
+                <img src="/posters/cs20/img/fullstokes2a.svg"></img>
+            
+                <img src="/posters/cs20/img/spec2-cs20.svg"></img>
+            
+                <img src="/posters/cs20/img/stokes-tr.svg"></img>
+            
+        
+
+        &lt;h3 id=&#34;alexis-lavail-oleg-kochukhov-and-gregg-wade&#34;&gt;Alexis Lavail, Oleg Kochukhov, and Gregg Wade&lt;/h3&gt;
+&lt;p&gt;A poster presented at the &lt;a href=&#34;http://coolstars20.cfa.harvard.edu/&#34;&gt;Cool Stars 20 conference&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./files/cs20_adleo.pdf&#34;&gt;PDF version of the poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4836L/abstract&#34;&gt;Link to the paper on ADS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;summary-of-the-science-in-not-so-rigorous-language&#34;&gt;Summary of the science in not-so-rigorous language&lt;/h3&gt;
+&lt;p&gt;Our aim was to get the first observations ever of a M-dwarf in all four Stokes parameters. This means one gets the intensity spectrum (Stokes I), the circularly polarized spectrum (Stokes V) and the two linearly polarized spectra (Stokes Q and U). &lt;strong&gt;This is challenging because the linear polarization signal is usually an order of magnitude weaker than circular polarization&lt;/strong&gt; (which is already not trivial to get).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stokes &lt;em&gt;V&lt;/em&gt;&lt;/strong&gt;: difference between counter-clockwise and clockwise circular polarisation. &lt;strong&gt;Stokes &lt;em&gt;Q&lt;/em&gt;&lt;/strong&gt;: difference between linear polarisation along two orthogonal axes on the sky. &lt;strong&gt;Stokes &lt;em&gt;U&lt;/em&gt;&lt;/strong&gt;: same principle than Stokes Q, but the two orthogonal axes have been rotated by 45 degrees. Read more on &lt;a href=&#34;https://en.wikipedia.org/wiki/Stokes_parameters&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/stokes-tr.svg&#34;
+         alt=&#34;Simple schematic of the Q,U, and V Stokes parameters.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Simple schematic of the Q,U, and V Stokes parameters.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In cool stars, the polarization signal in spectral lines is very weak, usually too weak to be very useful in fact. That&amp;rsquo;s why, in practice, one uses many spectral lines combined together to obtain an &amp;ldquo;average&amp;rdquo; spectral line profiles with enhanced signal-to-noise ratio. The method we commonly use is called &lt;a href=&#34;http://www.ast.obs-mip.fr/users/donati/multi.html&#34;&gt;Least Square Deconvolution&lt;/a&gt; (LSD).&lt;/p&gt;
+&lt;p&gt;When one has obtained observation at different rotational phases of a star, and computed the &amp;ldquo;average&amp;rdquo; LSD profiles, one can use the &lt;a href=&#34;http://www.astro.uu.se/~oleg/di_scheme_c.html&#34;&gt;Zeeman Doppler Imaging technique&lt;/a&gt; to reconstruct the map of the magnetic field at the stellar surface. This is nearly always done only with circular polarization (Stokes &lt;em&gt;V&lt;/em&gt;), and only one cool star has been studied with circular and linear polarization before (II Peg; &lt;a href=&#34;href=%22https://ui.adsabs.harvard.edu/#abs/2015ApJ...805..169R/abstract&#34;&gt;Rosén et al. 2015&lt;/a&gt;). The consensus today is that &lt;strong&gt;you get a rough large-scale picture if you use only Stokes &lt;em&gt;V&lt;/em&gt;, but you get a more reliable and more detailed picture if you add linear polarization&lt;/strong&gt;. That&amp;rsquo;s why we tried to get full-Stokes observation of M-dwarfs: to improve our understanding of their surface magnetic fields.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Zeeman Doppler Imaging got its name from the two physical effects we are using together to reconstruct the magnetic field map. &lt;strong&gt;The Doppler effect&lt;/strong&gt; causes that, as the star rotates, features at its surface will have a different Doppler shift if they are at different longitudes (they are coming towards us on one side of the star, going away from us on the other side). Because of this Doppler shift, one can locate the longitude of features from the wavelength shift of the feature on the spectral line. &lt;strong&gt;The Zeeman effect&lt;/strong&gt; is behind the generation of features in the intensity and polarized spectra caused by the magnetic field.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/di_spt_black.gif#center&#34;
+         alt=&#34;Illustration of the Zeeman-Doppler Imaging technique, from Oleg Kochukhov.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Illustration of the Zeeman-Doppler Imaging technique, from Oleg Kochukhov.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We targeted &lt;a href=&#34;http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=AD+Leo&amp;amp;submit=SIMBAD+search&#34;&gt;AD Leo&lt;/a&gt; (= GJ 388), one of the M-dwarf with the strongest circular polarization signal out there (&lt;a href=&#34;https://ui.adsabs.harvard.edu/#abs/2008MNRAS.390..567M/abstract&#34;&gt;Morin et al. 2008&lt;/a&gt;), and famous active flaring M-dwarf, hoping to detect nice linear polarization signatures. We observed the star several times in 2016 with the &lt;a href=&#34;http://www.cfht.hawaii.edu/Instruments/Spectroscopy/Espadons/&#34;&gt;ESPaDOnS&lt;/a&gt; spectropolarimeter at the &lt;a href=&#34;http://www.cfht.hawaii.edu/&#34;&gt;Canada-France-Hawaii Telescope&lt;/a&gt;. We got excellent data, and computed LSD profiles combining the signal from more than a thousand atomic lines. Our LSD profiles are shown here below.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/fullstokes2a.svg#center&#34;
+         alt=&#34;The LSD profiles are sorted by UTC date rising upwards (the rotational cycle is written in red). From Lavail et al. (2018)&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;The LSD profiles are sorted by UTC date rising upwards (the rotational cycle is written in red). From &lt;a href=&#34;https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4836L/abstract&#34;&gt;Lavail et al. (2018)&lt;/a&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We did detect linear polarization signal, which is a first, and a cool achievement in itself. However, the signals were weaker than expected, and slightly too weak to be included for a magnetic field mapping. However, &lt;strong&gt;there was a surprise&lt;/strong&gt;. The circular polarisation (Stokes &lt;em&gt;V&lt;/em&gt;) profiles, which used to be remarkably constant for years, were suddenly different. And this was quite unexpected. The evolution of those profiles with time is shown below.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/adleo_epochs_norepeat_2016.svg#center&#34;
+         alt=&#34;See how the Stokes V profiles have lower amplitude and slightly wider wings in 2016? From Lavail et al. (2018)&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;See how the Stokes V profiles have lower amplitude and slightly wider wings in 2016? From &lt;a href=&#34;https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4836L/abstract&#34;&gt;Lavail et al. (2018)&lt;/a&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We&amp;rsquo;re sure that this change is not an artifact from our multi-line technique. Indeed, our Stokes &lt;em&gt;V&lt;/em&gt; spectra have such a good signal-to-noise ratio that we can see the change in individual spectral lines! This is illustrated below.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/spec2-cs20.svg#center&#34;
+         alt=&#34;For this plot, I co-added several Stokes V spectra from 2012 together, and several from 2016 together. You can see the change in individual spectral lines profiles right away. This is just a narrow snippet of the entire ESPaDOns spectrum.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;For this plot, I co-added several Stokes &lt;em&gt;V&lt;/em&gt; spectra from 2012 together, and several from 2016 together. You can see the change in individual spectral lines profiles right away. This is just a narrow snippet of the entire ESPaDOns spectrum.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We used data from 2012 and our data from 2016 to map the magnetic field at the surface of AD Leo at those two epochs. The topology of the magnetic field did not change much, it remained a mostly axisymmetric dipole. However, the Stokes &lt;em&gt;V&lt;/em&gt; filling factor (fraction of the surface covered with magnetic field and which generates net circular polarization) decreased from 13% to 7%, meaning that the magnetic field seems to have concentrated in smaller areas at the stellar surface. This decrease in filling factor explains the change in the data (the Stokes &lt;em&gt;V&lt;/em&gt; profiles becoming broader and weaker). The two ZDI maps are presented below.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;./img/composite_map_polar.svg.png#center&#34;
+         alt=&#34;Here you see the magnetic maps and fits to the Stokes V observation for 2012 and 2016. The maps are polar projections, the solid line is the equator and the dashed lines indicate &amp;#43;30° and &amp;#43;60° latitudes. From Lavail et al. (2018)&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Here you see the magnetic maps and fits to the Stokes &lt;em&gt;V&lt;/em&gt; observation for 2012 and 2016. The maps are polar projections, the solid line is the equator and the dashed lines indicate +30° and +60° latitudes. From &lt;a href=&#34;https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4836L/abstract&#34;&gt;Lavail et al. (2018)&lt;/a&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The bottomline is that such a magnetic field change was unexpected, un-explained by theories, and we might make interesting discoveries by monitoring active M dwarfs over timescales of years/decades. Particularly, this could help us knowing what kind of dynamos are generating the magnetic fields of these stars, quite different from our Sun.&lt;/p&gt;
+&lt;h3 id=&#34;interested&#34;&gt;Interested?&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;re very welcome to get in touch with me if you have questions, comments, ideas, or just want to discuss science :-). I will be around at CS20, and can be reached by &lt;a href=&#34;mailto:alexis.lavail@physics.uu.se&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

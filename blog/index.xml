@@ -7,18 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swim season</title>
       <link>https://astro-alexis.github.io/blog/swim-season/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/swim-season/</guid>
-      <description>With the warm days, swim season is upon us in Stockholm! I went swimming every day since last Saturday, it is glorious. The water in the sea was still quite cold, around 13-14 degrees. In Brunnsviken though, it is perfect at around 18-19 degrees !</description>
+     
+      <description>
+        
+            
+                <img src="/blog/swim-season/swim.jpg"></img>
+            
+        
+
+        &lt;p&gt;With the warm days, swim season is upon us in Stockholm! I went swimming every day since last Saturday, it is &lt;strong&gt;glorious&lt;/strong&gt;. The water in the sea was still quite cold, around 13-14 degrees. In &lt;a href=&#34;https://en.wikipedia.org/wiki/Brunnsviken&#34;&gt;Brunnsviken&lt;/a&gt; though, it is perfect at around 18-19 degrees !&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -27,7 +33,17 @@
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/hops-growing/</guid>
-      <description>The hops planted early May are growing fast and seriously climbing that pole.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/hops-growing/hops.jpg"></img>
+            
+        
+
+        &lt;p&gt;&lt;a href=&#34;https://astro-alexis.github.io/blog/humlegarden/&#34;&gt;The hops&lt;/a&gt; planted early May are growing fast and seriously climbing that pole.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -36,9 +52,19 @@
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/travailler/</guid>
-      <description>Today it was difficult to get into the mood for efficient work. Lots of things happening, 1+ year of Covid, and a bright warm sunny day in Stockholm.
-My mood took me into listening to some &amp;ldquo;summer tunes&amp;rdquo;, which for me are ska/reggae/punk songs. I particularly listened to these two gems about working (travailler in French) less.
- Tryo - Travailler plus. Tryo is a staple of French music, particularly among (hippie) people in my generation, with some great hit songs [1, 2, 3].</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Today it was difficult to get into the mood for efficient work. Lots of things happening, 1+ year of Covid, and a bright warm sunny day in Stockholm.&lt;/p&gt;
+&lt;p&gt;My mood took me into listening to some &amp;ldquo;summer tunes&amp;rdquo;, which for me are ska/reggae/punk songs. I particularly listened to these two gems about working (&lt;em&gt;travailler&lt;/em&gt; in French) less.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BCm73R-_nw4&#34;&gt;Tryo - Travailler plus&lt;/a&gt;. Tryo is a staple of French music, particularly among (hippie) people in my generation, with some great hit songs [&lt;a href=&#34;https://www.youtube.com/watch?v=srb0lAK5wbA&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=srb0lAK5wbA&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=znSs7uEXCeo&#34;&gt;3&lt;/a&gt;]. &lt;em&gt;Travailler plus&lt;/em&gt; is an echo to sleazy ex-president Sarkozy motto: &amp;ldquo;&lt;em&gt;Travailler plus pour gagner plus&lt;/em&gt;&amp;rdquo; (&lt;a href=&#34;https://www.theguardian.com/world/2012/feb/10/nicolas-sarkozy-popular-president-toxic&#34;&gt;&amp;ldquo;Work more to earn more&amp;rdquo;&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GrUZJ_aCG8E&#34;&gt;Irie Révoltés - Travailler&lt;/a&gt;. Heidelberg-based Irie Révoltés is a good French-German friendship symbol. Here they sing in French about how working is not that nice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The French &amp;ldquo;&lt;em&gt;travail&lt;/em&gt;&amp;rdquo; (&amp;ldquo;work&amp;rdquo;) is commonly thought to come for the Latin &lt;a href=&#34;https://en.wikipedia.org/wiki/Tripalium&#34;&gt;&lt;em&gt;Tripalium&lt;/em&gt;&lt;/a&gt;, a torture instrument, Motivational ;-)&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -47,8 +73,20 @@ My mood took me into listening to some &amp;ldquo;summer tunes&amp;rdquo;, which
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/bookmark-cleanup-2/</guid>
-      <description>I have recently gone through my bookmarks and cleaned them up. In the process I found some hidden gems, here is a second short collection of links, with a music theme (and even some Eurovision).
- 🇱🇻 Latvia - Babite Mixed Choir Maska, great performance at Eurovision choir 2019 🇸🇮 zalagasper - S teboi, a band who performed another song at Eurovision 2019 🇳🇴 Aurora - Full Performance (Live on KEXP), some fresh music live on the great radio KEXP 🇮🇸 amiina - Full Performance (Live on KEXP), a relaxing performance, also live on KEXP Dvorak : “New World” Symphony No.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I have recently &lt;a href=&#34;https://astro-alexis.github.io/blog/bookmark-cleanup&#34;&gt;gone through my bookmarks&lt;/a&gt; and cleaned them up. In the process I found some hidden gems, here is a second short collection of links, with a music theme (and even some Eurovision).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇱🇻 &lt;a href=&#34;https://www.youtube.com/watch?v=vEVuRSv4vJE&#34;&gt;Latvia - Babite Mixed Choir Maska&lt;/a&gt;, great performance at Eurovision choir 2019&lt;/li&gt;
+&lt;li&gt;🇸🇮 &lt;a href=&#34;https://www.youtube.com/watch?v=lcrjzPZmryA&#34;&gt;zalagasper - S teboi&lt;/a&gt;, a band who performed another song at Eurovision 2019&lt;/li&gt;
+&lt;li&gt;🇳🇴 &lt;a href=&#34;https://www.youtube.com/watch?v=P_XguuxLo10&#34;&gt;Aurora - Full Performance (Live on KEXP)&lt;/a&gt;, some fresh music live on the great radio &lt;a href=&#34;https://kexp.org/&#34;&gt;KEXP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇮🇸 &lt;a href=&#34;https://www.youtube.com/watch?v=-IIuHL_8Olg&#34;&gt;amiina - Full Performance (Live on KEXP)&lt;/a&gt;, a relaxing performance, also live on &lt;a href=&#34;https://kexp.org/&#34;&gt;KEXP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OV0KkYUa6iA&#34;&gt;Dvorak : “New World” Symphony No. 9 (Marzena Diakun)&lt;/a&gt;, wonderful music from the &lt;em&gt;Orchestre Philharmonique de Radio France&lt;/em&gt; conducted by Marzen Diakun&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
     <item>
@@ -57,8 +95,19 @@ My mood took me into listening to some &amp;ldquo;summer tunes&amp;rdquo;, which
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/a-year-of-records/</guid>
-      <description>Around a year ago, I defended my PhD thesis 🥳! To celebrate, my kind colleagues offered me a record player. Since then, I bought quite some records, second-hand when possible, discogs has been a great source in these pandemics time.
-When I was younger, I had cassettes, then CDs. When I got access to internet, I started using P2P, torrents, and streaming services such as Grooveshark, Spotify, or Deezer. Having now this record player is a welcomed return to playing music on a physical medium.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/a-year-of-records/records.png"></img>
+            
+        
+
+        &lt;p&gt;Around a year ago, I defended my PhD thesis 🥳! To celebrate, my kind colleagues offered me a record player. Since then, I bought quite some records, second-hand when possible, &lt;a href=&#34;https://www.discogs.com&#34;&gt;discogs&lt;/a&gt; has been a great source in these pandemics time.&lt;/p&gt;
+&lt;p&gt;When I was younger, I had cassettes, then CDs. When I got access to internet, I started using P2P, torrents, and streaming services such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Grooveshark&#34;&gt;Grooveshark&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Spotify&#34;&gt;Spotify&lt;/a&gt;, or &lt;a href=&#34;https://en.wikipedia.org/wiki/Deezer&#34;&gt;Deezer&lt;/a&gt;. Having now this record player is a welcomed return to playing music on a physical medium.&lt;/p&gt;
+&lt;p&gt;Sure you can&amp;rsquo;t listen to your favourite playlist, but I always liked to listen to entire records, and it is just great to have a small device that &lt;strong&gt;only&lt;/strong&gt; plays the music. Listening to music is now a nice ritual, not just a click.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -67,8 +116,22 @@ When I was younger, I had cassettes, then CDs. When I got access to internet, I 
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/a-vote/</guid>
-      <description>Yesterday I biked to the French embassy in Stockholm to vote for conseillers consulaires, consular advisers. Their mandate is to vote in the elections for the French senate, advise French policy-makers on matters affecting French citizens abroad, and provide help to the French citizens abroad.
-These elections are rather low-key, but I realized that it is one of the election where my vote has the largest influence: probably around 2000 people voted in total.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Yesterday I biked to the French embassy in Stockholm to vote for &lt;em&gt;conseillers consulaires&lt;/em&gt;, consular advisers. Their mandate is to vote in the elections for the French senate, advise French policy-makers on matters affecting French citizens abroad, and provide help to the French citizens abroad.&lt;/p&gt;
+&lt;p&gt;These elections are rather low-key, but I realized that it is one of the election where my vote has the largest influence: probably around 2000 people voted in total.&lt;/p&gt;
+&lt;p&gt;Also, I totally love the all the symbols and the solemnity in French elections, particularly when comparing with Swedish elections, which feel so casual. Everything in the voting booth is ordered in a precise way, wheter you vote in the embassy in Stockholm or back in my village. And the devil in the details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the ballot box is transparent so you can always see through&lt;/li&gt;
+&lt;li&gt;nobody else touches your ballot. You put it on top of the box and the &amp;ldquo;voting station president&amp;rdquo; only activates a lever that opens the ballot box&lt;/li&gt;
+&lt;li&gt;the ballot box is never left out of sight&lt;/li&gt;
+&lt;li&gt;the opening of the ballot box and the counting of votes is done in public with the public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But the very best, is the lound and solemn &amp;ldquo;&lt;em&gt;A voté !&lt;/em&gt;&amp;rdquo; (&amp;ldquo;has voted&amp;rdquo;), that the voting station officer says as soon as the ballot is in the box. Goosebumps every time.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -77,7 +140,13 @@ These elections are rather low-key, but I realized that it is one of the electio
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/catalan-humour/</guid>
-      <description>Manuel Valls, a man you cannot trust, is coming back to France after a short stint in Barcelona politics, eyeing the next French presidential elections. Catalans seem happy to get rid of him. The video is a cover of this infamous song.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Manuel Valls, a &lt;a href=&#34;https://www.reuters.com/article/us-france-election-idUSKBN1700K5&#34;&gt;man you cannot trust&lt;/a&gt;, is coming back to France after a short stint in Barcelona politics, eyeing the next French presidential elections. &lt;a href=&#34;https://www.youtube.com/watch?v=V2WIG8bmO9s&#34;&gt;Catalans seem happy&lt;/a&gt; to get rid of him. The video is a cover of &lt;a href=&#34;https://www.youtube.com/watch?v=QpbHdIrtpNo&#34;&gt;this infamous song&lt;/a&gt;.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -86,7 +155,17 @@ These elections are rather low-key, but I realized that it is one of the electio
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/forest-flowers/</guid>
-      <description>Spring is now definitely here 🥳!</description>
+     
+      <description>
+        
+            
+                <img src="/blog/forest-flowers/flowers.jpg"></img>
+            
+        
+
+        &lt;p&gt;Spring is now definitely here 🥳!&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -95,8 +174,20 @@ These elections are rather low-key, but I realized that it is one of the electio
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/bookmark-cleanup/</guid>
-      <description>I haven&amp;rsquo;t gone thoroughly through my browser bookmarks in around a decade, and it was time to rummage and do a clean-up. The first realization is that around a third of all pages bookmarked do not exist anymore. This made me think about webpages longevity in general.
-The second realization is that there are tons of great random links in there that I just never went back to visit. Here are a few:</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I haven&amp;rsquo;t gone thoroughly through my browser bookmarks in around a decade, and it was time to rummage and do a clean-up. The first realization is that around a third of all pages bookmarked do not exist anymore. This made me think about &lt;a href=&#34;https://jeffhuang.com/designed_to_last/&#34;&gt;webpages longevity&lt;/a&gt; in general.&lt;/p&gt;
+&lt;p&gt;The second realization is that there are tons of great random links in there that I just never went back to visit. Here are a few:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This story on &lt;a href=&#34;http://www.directedplay.com/first-tv-image-of-mars&#34;&gt;the first TV image of Mars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html&#34;&gt;If the moon were only 1 pixel&lt;/a&gt;, a downscaled solar system where the moon is one pixel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intro.novationmusic.com/harry-coade&#34;&gt;Launchpad intro&lt;/a&gt; to feel like a music producer&lt;/li&gt;
+&lt;li&gt;This &lt;a href=&#34;https://ksiop.webpages.auth.gr/?page_id=15&#34;&gt;collection of GIFs&lt;/a&gt; about PhD studies and academia. It actually changed URL and I had to hunt it down to the new location.&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
     <item>
@@ -105,8 +196,26 @@ The second realization is that there are tons of great random links in there tha
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/typography/</guid>
-      <description>Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.
-There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already. Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/typography/fonts.jpg"></img>
+            
+        
+
+        &lt;p&gt;Typography is one of my nerdy hobbies. I do like a nicely printed book or magasine in a great typeface, and the same works for electronic content.&lt;/p&gt;
+&lt;p&gt;There are so many high-quality free fonts around these days, that I changed the fonts used on this website many (many) times already.
+Now, in a low-tech effort, I decided to switch to default system fonts. This way, your browser does not download extra font-files when you browse here.&lt;/p&gt;
+&lt;p&gt;Some links to free fonts, in case you need them in your projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sans-sérif: &lt;a href=&#34;https://fonts.google.com/specimen/Roboto&#34;&gt;Roboto&lt;/a&gt;, &lt;a href=&#34;https://bboxtype.com/typefaces/FiraGO/#!layout=specimen&#34;&gt;FiraGo&lt;/a&gt;, &lt;a href=&#34;https://adobe-fonts.github.io/source-sans/&#34;&gt;Source Sans Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Sans&lt;/a&gt;, &lt;a href=&#34;https://www.huertatipografica.com/en/fonts/alegreya-sans-ht&#34;&gt;Alegreya Sans&lt;/a&gt;, &lt;a href=&#34;https://www.omnibus-type.com/fonts/chivo/&#34;&gt;Chivo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sérif: &lt;a href=&#34;https://adobe-fonts.github.io/source-serif/&#34;&gt;Source Serif Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Serif&lt;/a&gt;, &lt;a href=&#34;https://www.fontsquirrel.com/fonts/gandhi-serif&#34;&gt;Gandhi Serif&lt;/a&gt;, &lt;a href=&#34;https://www.huertatipografica.com/en/fonts/alegreya-ht-pro&#34;&gt;Alegreya&lt;/a&gt;, &lt;a href=&#34;https://www.omnibus-type.com/fonts/manuale/&#34;&gt;Manuale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Monospace: &lt;a href=&#34;https://fonts.google.com/specimen/Roboto+Mono&#34;&gt;Roboto Mono&lt;/a&gt;, &lt;a href=&#34;http://adobe-fonts.github.io/source-code-pro/&#34;&gt;Source Code Pro&lt;/a&gt;, &lt;a href=&#34;https://company.paratype.com/pt-sans-pt-serif&#34;&gt;PT Mono&lt;/a&gt;, &lt;a href=&#34;https://github.com/IBM/plex/releases&#34;&gt;IBM Plex Mono&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There&amp;rsquo;s plenty more, but I&amp;rsquo;ll stop here ;)&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -115,8 +224,19 @@ There are so many high-quality free fonts around these days, that I changed the 
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/standing-desk/</guid>
-      <description>For a few years back, I have been doing some work from home, and bought a standard IKEA manual standing desk for the home office. This was a great buy, allowing to have good ergonomy while working at home.
-When the Covid pandemic started, we ended up being three people working from home, and I wanted a second desk where I could be standing. I decided to buy a Standsome slim, which I got to try by chance in the public library in Karlsruhe where I stopped to work a day during a train trip.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/standing-desk/standsome.jpg"></img>
+            
+        
+
+        &lt;p&gt;For a few years back, I have been doing some work from home, and bought a standard IKEA manual &lt;a href=&#34;https://www.ikea.com/se/sv/p/skarsta-skrivbord-sitt-sta-vit-s89324812/&#34;&gt;standing desk&lt;/a&gt; for the home office. This was a great buy, allowing to have good ergonomy while working at home.&lt;/p&gt;
+&lt;p&gt;When the Covid pandemic started, we ended up being three people working from home, and I wanted a second desk where I could be standing. I decided to buy a &lt;a href=&#34;https://standsome.com/shop/steh-schreibtisch-hoehenverstellbar/standsome-slim-white/&#34;&gt;Standsome slim&lt;/a&gt;, which I got to try by chance in the public library in Karlsruhe where I stopped to work a day during a train trip. The advantage is that it can be placed on a table to make a standing desk, and folded away when the work day is over.&lt;/p&gt;
+&lt;p&gt;The only issue I found is that the laptop ends up being low compared to eye level. With a simple DYI - screwing two small pieces of wood on the board, the laptop can be placed vertically and the screen ends up smack at eye level !&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -125,9 +245,22 @@ When the Covid pandemic started, we ended up being three people working from hom
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/lesmiserables/</guid>
-      <description>I recently re-read Les Misérables from Victor Hugo. As a Frenchperson, it is of course a must-read, having had to idolize Victor Hugo all through schoolyears and beyond.
-I am not the biggest fan, but I must say that the guy can write. Some sentences just resonate with me.
- À ses pieds ce qu’on peut cultiver et cueillir ; sur sa tête ce qu’on peut étudier et méditer; quelques fleurs sur la terre et toutes les étoiles dans le ciel.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I recently re-read &lt;a href=&#34;https://fr.wikipedia.org/wiki/Les_Mis%C3%A9rables&#34;&gt;&lt;em&gt;Les Misérables&lt;/em&gt;&lt;/a&gt; from Victor Hugo. As a Frenchperson, it is of course a must-read, having had to idolize Victor Hugo all through schoolyears and beyond.&lt;/p&gt;
+&lt;p&gt;I am not the biggest fan, but I must say that the guy can write. Some sentences just resonate with me.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;À ses pieds ce qu’on peut cultiver et cueillir ; sur sa tête ce qu’on peut étudier et méditer; quelques fleurs sur la terre et toutes les étoiles dans le ciel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Translated &lt;a href=&#34;https://en.wikisource.org/wiki/Les_Mis%C3%A9rables/Volume_1/Book_First/Chapter_13&#34;&gt;in English&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At one&amp;rsquo;s feet that which can be cultivated and plucked; over head that which one can study and meditate upon: some flowers on earth, and all the stars in the sky.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you want to watch it on screen, I recommend &lt;a href=&#34;https://www.criterion.com/films/879-les-miserables&#34;&gt;the adaptation from 1934&lt;/a&gt; by Raymond Bernard. It&amp;rsquo;s a very &lt;a href=&#34;https://www.criterion.com/current/posts/2604-from-the-eclipse-shelf-les-mis-rables&#34;&gt;good one&lt;/a&gt;.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -136,7 +269,17 @@ I am not the biggest fan, but I must say that the guy can write. Some sentences 
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/kungsangslilja/</guid>
-      <description>A pretty picture today, with one of my favourite flower: kungsängslilja in Swedish (and a great name in French: Fritillaire pintade). It is the official flower of Uppland province, which encompasses Uppsala.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/kungsangslilja/kungsangslilja.jpg"></img>
+            
+        
+
+        &lt;p&gt;A pretty picture today, with one of my favourite flower: &lt;a href=&#34;https://en.wikipedia.org/wiki/Fritillaria_meleagris&#34;&gt;kungsängslilja&lt;/a&gt; in Swedish (and a great name in French: &lt;em&gt;Fritillaire pintade&lt;/em&gt;). It is the official flower of Uppland province, which encompasses Uppsala.&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -145,9 +288,38 @@ I am not the biggest fan, but I must say that the guy can write. Some sentences 
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/humlegarden/</guid>
-      <description>As a homebrewer, I am interested in the four basic ingredients that we combine to make beer:
- water malt hops yeast  The tap water in Stockholm comes from lake Mälaren and is excellent. Malt I can buy locally from Swedish maltsters (e.g Warbro Kvarn). Amazing yeasts can be found too, like the Norwegian kveik yeast that can be dryed &amp;amp; re-used from batch to batch.
-What about hops though?</description>
+     
+      <description>
+        
+            
+                <img src="/blog/humlegarden/humlegard.jpg"></img>
+            
+                <img src="/blog/humlegarden/humlegard2.jpg"></img>
+            
+        
+
+        &lt;p&gt;As a homebrewer, I am interested in the four basic ingredients that we combine to make beer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;water&lt;/li&gt;
+&lt;li&gt;malt&lt;/li&gt;
+&lt;li&gt;hops&lt;/li&gt;
+&lt;li&gt;yeast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The tap water in Stockholm comes from lake Mälaren and &lt;a href=&#34;https://www.stockholmvattenochavfall.se/globalassets/pdf1/rapporter/dricksvatten/dricksvattenkvalitet/kval-dekl-nor-2020-med-logga-2021-03-31.pdf&#34;&gt;is excellent&lt;/a&gt;. Malt I can buy locally from Swedish maltsters (e.g &lt;a href=&#34;https://warbrokvarn.se/&#34;&gt;Warbro Kvarn&lt;/a&gt;). Amazing yeasts can be found too, like the &lt;a href=&#34;https://www.garshol.priv.no/blog/393.html&#34;&gt;Norwegian kveik yeast&lt;/a&gt; that can be dryed &amp;amp; re-used from batch to batch.&lt;/p&gt;
+&lt;p&gt;What about hops though?&lt;/p&gt;
+&lt;p&gt;Swedish production is rather small, expensive, and not too easy to find, although hops had been extensively cultivated in Sweden for centuries. Actually, for a very long time, farmers were bound by law to cultivate a certain amount of hops for the crown. However in the 20th century, hops were not grown commercially in Sweden on a large scale any longer and imported instead.&lt;/p&gt;
+&lt;p&gt;In the last decades, some researchers &lt;a href=&#34;https://www.nordiskamuseet.se/artiklar/kartorna-visar-vagen&#34;&gt;made use of historical maps&lt;/a&gt; to hunt down old hop garden from the 17th century, go to the sites and look for surviving hop plants. And they found them!&lt;/p&gt;
+&lt;p&gt;Some of these plants are now grown in &lt;a href=&#34;https://www.nordiskamuseet.se/slott-gardar/julita-gard&#34;&gt;Julita Gård&lt;/a&gt;, the garden of the Nordic museum. Some are even available for sale. I bought four sorts which I have now planted in my area: Svalöf E (modern variety from the 30s bred in Southern Sweden), and three historical varieties from the 1600-1700s Uppland region: Spångby, Olarsbo, and Hanunda.&lt;/p&gt;
+&lt;p&gt;Hops grow tall, and will climb on 5-metre spruce trunks, that I kindly got from the neighbouring national park. If all goes well, harvest in late august!&lt;/p&gt;
+&lt;p&gt;This has been a funny pet-project to set-up, involving negotiations with the landlord (Student housing in Stockholm, SSSB), the local tenant association, and the neighbouring national park. It has helped tremendously that the researcher involved in finding up these old hops is, by complete chance, my neighbour.&lt;/p&gt;
+&lt;p&gt;Some further reading (mostly in Swedish):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slu.se/centrumbildningar-och-projekt/programmet-for-odlad-mangfald-pom/publikationer/bocker/humle-i-den-svenska-nationella-genbanken/&#34;&gt;Humle i den svenska nationella genbanken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://humleriket.se/&#34;&gt;Humleriket&lt;/a&gt; who sells historical Swedish hops in Uppsala&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allmogens.se/en/humleskorden/&#34;&gt;Hops in the old peasant society&lt;/a&gt;, an article with fantastic pictures.&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
     <item>
@@ -156,7 +328,14 @@ What about hops though?</description>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/2021-05-14_covid/</guid>
-      <description>Well, I am sick this week, so nothing to be seen here. Come on, move along :-).</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Well, I am sick this week, so nothing to be seen here.
+Come on, &lt;a href=&#34;https://www.youtube.com/watch?v=pp_vmgLQKXE&#34;&gt;move along&lt;/a&gt; :-).&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -165,10 +344,17 @@ What about hops though?</description>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/2021-05-07_start/</guid>
-      <description>Welcome to this blog!
-Hello world I guess.
-Why this blog? Well, thanks for asking. You provide some sort of peer-pressure so that I regularly write something. I suck at writing, and I dislike it. So this will be a good kick in the butt. Expect some science, much nonsense, some landscapes, beer-brewing and other misc.
-How often should I write? How often will I write? Who knows &amp;hellip; But at least a post a week should be good, non?</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Welcome to this blog!&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hello world&lt;/code&gt; I guess.&lt;/p&gt;
+&lt;p&gt;Why this blog? Well, thanks for asking. You provide some sort of peer-pressure so that I regularly write something. I suck at writing, and I dislike it. So this will be a good kick in the butt. Expect some science, much nonsense, some landscapes, beer-brewing and other misc.&lt;/p&gt;
+&lt;p&gt;How often should I write? How often will I write? Who knows &amp;hellip; But at least a post a week should be good, non? Setting the bar low is the key.&lt;/p&gt;
+&lt;p&gt;/alexis&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

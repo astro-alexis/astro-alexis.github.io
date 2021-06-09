@@ -7,19 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/links/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookmark clean-up II</title>
       <link>https://astro-alexis.github.io/blog/bookmark-cleanup-2/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/bookmark-cleanup-2/</guid>
-      <description>I have recently gone through my bookmarks and cleaned them up. In the process I found some hidden gems, here is a second short collection of links, with a music theme (and even some Eurovision).
- 🇱🇻 Latvia - Babite Mixed Choir Maska, great performance at Eurovision choir 2019 🇸🇮 zalagasper - S teboi, a band who performed another song at Eurovision 2019 🇳🇴 Aurora - Full Performance (Live on KEXP), some fresh music live on the great radio KEXP 🇮🇸 amiina - Full Performance (Live on KEXP), a relaxing performance, also live on KEXP Dvorak : “New World” Symphony No.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I have recently &lt;a href=&#34;https://astro-alexis.github.io/blog/bookmark-cleanup&#34;&gt;gone through my bookmarks&lt;/a&gt; and cleaned them up. In the process I found some hidden gems, here is a second short collection of links, with a music theme (and even some Eurovision).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇱🇻 &lt;a href=&#34;https://www.youtube.com/watch?v=vEVuRSv4vJE&#34;&gt;Latvia - Babite Mixed Choir Maska&lt;/a&gt;, great performance at Eurovision choir 2019&lt;/li&gt;
+&lt;li&gt;🇸🇮 &lt;a href=&#34;https://www.youtube.com/watch?v=lcrjzPZmryA&#34;&gt;zalagasper - S teboi&lt;/a&gt;, a band who performed another song at Eurovision 2019&lt;/li&gt;
+&lt;li&gt;🇳🇴 &lt;a href=&#34;https://www.youtube.com/watch?v=P_XguuxLo10&#34;&gt;Aurora - Full Performance (Live on KEXP)&lt;/a&gt;, some fresh music live on the great radio &lt;a href=&#34;https://kexp.org/&#34;&gt;KEXP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇮🇸 &lt;a href=&#34;https://www.youtube.com/watch?v=-IIuHL_8Olg&#34;&gt;amiina - Full Performance (Live on KEXP)&lt;/a&gt;, a relaxing performance, also live on &lt;a href=&#34;https://kexp.org/&#34;&gt;KEXP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OV0KkYUa6iA&#34;&gt;Dvorak : “New World” Symphony No. 9 (Marzena Diakun)&lt;/a&gt;, wonderful music from the &lt;em&gt;Orchestre Philharmonique de Radio France&lt;/em&gt; conducted by Marzen Diakun&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
     <item>
@@ -28,8 +36,20 @@
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/bookmark-cleanup/</guid>
-      <description>I haven&amp;rsquo;t gone thoroughly through my browser bookmarks in around a decade, and it was time to rummage and do a clean-up. The first realization is that around a third of all pages bookmarked do not exist anymore. This made me think about webpages longevity in general.
-The second realization is that there are tons of great random links in there that I just never went back to visit. Here are a few:</description>
+     
+      <description>
+        
+
+        &lt;p&gt;I haven&amp;rsquo;t gone thoroughly through my browser bookmarks in around a decade, and it was time to rummage and do a clean-up. The first realization is that around a third of all pages bookmarked do not exist anymore. This made me think about &lt;a href=&#34;https://jeffhuang.com/designed_to_last/&#34;&gt;webpages longevity&lt;/a&gt; in general.&lt;/p&gt;
+&lt;p&gt;The second realization is that there are tons of great random links in there that I just never went back to visit. Here are a few:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This story on &lt;a href=&#34;http://www.directedplay.com/first-tv-image-of-mars&#34;&gt;the first TV image of Mars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html&#34;&gt;If the moon were only 1 pixel&lt;/a&gt;, a downscaled solar system where the moon is one pixel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intro.novationmusic.com/harry-coade&#34;&gt;Launchpad intro&lt;/a&gt; to feel like a music producer&lt;/li&gt;
+&lt;li&gt;This &lt;a href=&#34;https://ksiop.webpages.auth.gr/?page_id=15&#34;&gt;collection of GIFs&lt;/a&gt; about PhD studies and academia. It actually changed URL and I had to hunt it down to the new location.&lt;/li&gt;
+&lt;/ul&gt;
+  
+</description>
     </item>
     
   </channel>

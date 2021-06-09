@@ -7,19 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/france/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/france/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A voté</title>
       <link>https://astro-alexis.github.io/blog/a-vote/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/a-vote/</guid>
-      <description>Yesterday I biked to the French embassy in Stockholm to vote for conseillers consulaires, consular advisers. Their mandate is to vote in the elections for the French senate, advise French policy-makers on matters affecting French citizens abroad, and provide help to the French citizens abroad.
-These elections are rather low-key, but I realized that it is one of the election where my vote has the largest influence: probably around 2000 people voted in total.</description>
+     
+      <description>
+        
+
+        &lt;p&gt;Yesterday I biked to the French embassy in Stockholm to vote for &lt;em&gt;conseillers consulaires&lt;/em&gt;, consular advisers. Their mandate is to vote in the elections for the French senate, advise French policy-makers on matters affecting French citizens abroad, and provide help to the French citizens abroad.&lt;/p&gt;
+&lt;p&gt;These elections are rather low-key, but I realized that it is one of the election where my vote has the largest influence: probably around 2000 people voted in total.&lt;/p&gt;
+&lt;p&gt;Also, I totally love the all the symbols and the solemnity in French elections, particularly when comparing with Swedish elections, which feel so casual. Everything in the voting booth is ordered in a precise way, wheter you vote in the embassy in Stockholm or back in my village. And the devil in the details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the ballot box is transparent so you can always see through&lt;/li&gt;
+&lt;li&gt;nobody else touches your ballot. You put it on top of the box and the &amp;ldquo;voting station president&amp;rdquo; only activates a lever that opens the ballot box&lt;/li&gt;
+&lt;li&gt;the ballot box is never left out of sight&lt;/li&gt;
+&lt;li&gt;the opening of the ballot box and the counting of votes is done in public with the public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But the very best, is the lound and solemn &amp;ldquo;&lt;em&gt;A voté !&lt;/em&gt;&amp;rdquo; (&amp;ldquo;has voted&amp;rdquo;), that the voting station officer says as soon as the ballot is in the box. Goosebumps every time.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

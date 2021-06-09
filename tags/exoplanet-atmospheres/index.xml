@@ -7,19 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/exoplanet-atmospheres/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/exoplanet-atmospheres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Launch of the Thunberg Fellowship Programme</title>
       <link>https://astro-alexis.github.io/presentations/2020-thunberg/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2020-thunberg/</guid>
-      <description>2020-10-06 at the Swedish Collegium for Advanced Study, Uppsala (Sweden)
- Slides from my presentation  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2020-10-06 at the Swedish Collegium for Advanced Study, Uppsala (Sweden)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./2020-10-06_alexislavail_scas.pdf&#34;&gt;Slides from my presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

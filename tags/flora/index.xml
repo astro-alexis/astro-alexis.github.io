@@ -7,18 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/flora/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/flora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forest flowers</title>
       <link>https://astro-alexis.github.io/blog/forest-flowers/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/forest-flowers/</guid>
-      <description>Spring is now definitely here 🥳!</description>
+     
+      <description>
+        
+            
+                <img src="/blog/forest-flowers/flowers.jpg"></img>
+            
+        
+
+        &lt;p&gt;Spring is now definitely here 🥳!&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -27,7 +33,17 @@
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/blog/kungsangslilja/</guid>
-      <description>A pretty picture today, with one of my favourite flower: kungsängslilja in Swedish (and a great name in French: Fritillaire pintade). It is the official flower of Uppland province, which encompasses Uppsala.</description>
+     
+      <description>
+        
+            
+                <img src="/blog/kungsangslilja/kungsangslilja.jpg"></img>
+            
+        
+
+        &lt;p&gt;A pretty picture today, with one of my favourite flower: &lt;a href=&#34;https://en.wikipedia.org/wiki/Fritillaria_meleagris&#34;&gt;kungsängslilja&lt;/a&gt; in Swedish (and a great name in French: &lt;em&gt;Fritillaire pintade&lt;/em&gt;). It is the official flower of Uppland province, which encompasses Uppsala.&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

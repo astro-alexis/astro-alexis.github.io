@@ -7,19 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 BCool meeting</title>
       <link>https://astro-alexis.github.io/presentations/2021-bcool/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2021-bcool/</guid>
-      <description>2021-04-12 🠖 2021-04-14, online
- Conference website Slides from my presentation Recorded talk on Youtube  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2021-04-12 🠖 2021-04-14, online&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bcool2021.sciencesconf.org/&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;alexislavail_bcool.pdf&#34;&gt;Slides from my presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Recorded talk &lt;a href=&#34;https://www.youtube.com/watch?v=h16rttoLLo0&#34;&gt;on Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -28,8 +35,17 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2020-thunberg/</guid>
-      <description>2020-10-06 at the Swedish Collegium for Advanced Study, Uppsala (Sweden)
- Slides from my presentation  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2020-10-06 at the Swedish Collegium for Advanced Study, Uppsala (Sweden)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./2020-10-06_alexislavail_scas.pdf&#34;&gt;Slides from my presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -38,9 +54,18 @@
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2020-defense/</guid>
-      <description>2020-05-26 at Uppsala University (Sweden)
-The day I got my PhD, also my birthday if you want to know.
- Slides from my presentation  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2020-05-26 at Uppsala University (Sweden)&lt;/p&gt;
+&lt;p&gt;The day I got my PhD, also my birthday if you want to know.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./2020_alavail_phd_defense.pdf&#34;&gt;Slides from my presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
     <item>
@@ -49,8 +74,18 @@ The day I got my PhD, also my birthday if you want to know.
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/presentations/2019-starry/</guid>
-      <description>2019-06-18 🠖 2019-06-21 in Leeds (UK)
- Conference website Slides from my presentation  🠔 back to presentations</description>
+     
+      <description>
+        
+
+        &lt;p&gt;2019-06-18 🠖 2019-06-21 in Leeds (UK)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://starry-project.eu/final-conference/&#34;&gt;Conference website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../talks/alexislavail_leeds_starry_20190621.pdf&#34;&gt;Slides from my presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🠔 &lt;a href=&#34;../&#34;&gt;back to presentations&lt;/a&gt;&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>

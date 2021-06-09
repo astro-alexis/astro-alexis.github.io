@@ -7,18 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://astro-alexis.github.io/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A logo proposal for Svenska astronomiska sällskapet</title>
       <link>https://astro-alexis.github.io/design/astronomiska/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/design/astronomiska/</guid>
-      <description>    </description>
+     
+      <description>
+        
+            
+                <img src="/design/astronomiska/files/mockup1.svg"></img>
+            
+                <img src="/design/astronomiska/files/mockup2.svg"></img>
+            
+                <img src="/design/astronomiska/files/mockup3-untr.svg"></img>
+            
+                <img src="/design/astronomiska/files/mockup3.svg"></img>
+            
+                <img src="/design/astronomiska/files/mockup4.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-colour-notext.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-colour-with-text.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-gray-notext.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-gray-with-text.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-white-notext.svg"></img>
+            
+                <img src="/design/astronomiska/files/sas-logo-white-with-text.svg"></img>
+            
+        
+
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;./files/sas-logo-colour-with-text.svg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;./files/sas-logo-gray-with-text.svg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+  
+</description>
     </item>
     
   </channel>
