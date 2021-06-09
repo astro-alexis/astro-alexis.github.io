@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/tags/hobby/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/nature/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/photo/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/swim-season/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,26 +75,6 @@
   <url>
     <loc>https://astro-alexis.github.io/blog/hops-growing/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/photo/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -143,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/tags/nature/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://astro-alexis.github.io/blog/bookmark-cleanup/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url>
@@ -159,11 +169,6 @@
   
   <url>
     <loc>https://astro-alexis.github.io/tags/design/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/hobby/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url>
   
