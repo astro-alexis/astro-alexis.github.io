@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/blog/remote-comm/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/work/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/tags/hobby/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
@@ -20,21 +45,6 @@
   <url>
     <loc>https://astro-alexis.github.io/blog/swim-season/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://astro-alexis.github.io/blog/travailler/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/work/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
   

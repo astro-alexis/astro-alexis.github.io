@@ -9,6 +9,27 @@
     <copyright>alexis lavail</copyright>
     <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CRIRES remote commissioning</title>
+      <link>https://astro-alexis.github.io/blog/remote-comm/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/remote-comm/</guid>
+     
+      <description>
+        
+            
+                <img src="/blog/remote-comm/comm-setup.jpg"></img>
+            
+        
+
+        &lt;p&gt;Together with colleages in Uppsala and Germany, Italy, Chile, we&amp;rsquo;ve been building the &lt;a href=&#34;https://www.eso.org/sci/facilities/develop/instruments/crires_up.html&#34;&gt;CRIRES+ instrument&lt;/a&gt; for the &lt;a href=&#34;https://en.wikipedia.org/wiki/Very_Large_Telescope&#34;&gt;Very Large Telescope&lt;/a&gt; in Chile. The project has been around a decade in the making.&lt;/p&gt;
+&lt;p&gt;But finally, we are &amp;ldquo;commissioning&amp;rdquo; the instrument now. This means we test all the functions, make sure the instrument works as it should, and check that performances are good. If all works well, then we can happily offer the instrument to the community.&lt;/p&gt;
+&lt;p&gt;Normally for this kind of work, our team would travel to the observatory and help with the observations. With the Covid situation, most of us are now doing this work remotely, from home. The people at the observatory simply share their screens with us so that we can see what they observe in real time!&lt;/p&gt;
+  
+</description>
+    </item>
+    
+    <item>
       <title>Swim season</title>
       <link>https://astro-alexis.github.io/blog/swim-season/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
