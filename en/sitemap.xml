@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://astro-alexis.github.io/blog/remote-comm/</loc>
-    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <loc>https://astro-alexis.github.io/blog/2021-06-12-nada/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/random/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,6 +25,11 @@
                 hreflang="en"
                 href="https://astro-alexis.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/remote-comm/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
