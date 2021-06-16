@@ -9,6 +9,26 @@
     <copyright>alexis lavail</copyright>
     <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The devil (or the good god) is in the detail</title>
+      <link>https://astro-alexis.github.io/blog/devil-in-detail/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/devil-in-detail/</guid>
+     
+      <description>
+        
+
+        &lt;p&gt;Today I realized that no matter how much you dig into a topic, there are always interesting things to learn and surprises to be had.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The concrete example is this&lt;/strong&gt;:
+My first research project ever, a 2-month research internship at Uppsala University, was to analyze spectropolarimetric data of a star and infer properties of its &lt;a href=&#34;https://www.physics.uu.se/research/astronomy-and-space-physics/research/stars/magnetism/&#34;&gt;magnetic field&lt;/a&gt;. I had little time to dig into details. So I learned about polarization a bit, I learned about stellar spectra a bit, I learned about stars a bit, and about topographic imaging. This was &lt;strong&gt;a lot of fun&lt;/strong&gt; and motivated me to continue into astronomy, eventually taking up a PhD with &lt;a href=&#34;https://www.astro.uu.se/~oleg/&#34;&gt;the same supervisor&lt;/a&gt; at Uppsala University.&lt;/p&gt;
+&lt;p&gt;During the PhD, I worked more on spectropolarimetry. I also helped build a spectropolarimeter for &lt;a href=&#34;https://www.eso.org/sci/facilities/develop/instruments/crires_up.html&#34;&gt;the CRIRES+ instrument&lt;/a&gt;. I got to learn about the instrument itself, how we can get the polarized spectra from the stellar light. I dug into the realms of instrument electronics, hardware, the optics, the control software, the mechanics. In the end, I thought I had a good idea how things work in the instrument (I was a bit wrong).&lt;/p&gt;
+&lt;p&gt;Now, during my postdoc, we commission the instrument at last at the telescope! It&amp;rsquo;s time to test many things I had little idea about: the way the observation blocks are handled, observing templates, FITS header management, and quality control. It was also time to test the data reduction pipeline on on spectropolarimetric observations. I got to dig into the equations of &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/1997MNRAS.291..658D/abstract&#34;&gt;Stokes parameter demodulation&lt;/a&gt;, and see all the kinks and clever details in the software implementation.&lt;/p&gt;
+&lt;p&gt;The bottom line is:  I found interesting things, strokes of genius, clever implementations, and also seemingly absurd things at all levels. I would actually not mind keep going deeper into the instrument business, e.g learning more about the manufacturing of &lt;a href=&#34;https://imagineoptix.com/technology/polarization-gratings&#34;&gt;polarization gratings&lt;/a&gt; (which are still a mystery to me), or into the pipeline-writing business.&lt;/p&gt;
+  
+</description>
+    </item>
+    
+    <item>
       <title>Nada</title>
       <link>https://astro-alexis.github.io/blog/2021-06-12-nada/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
