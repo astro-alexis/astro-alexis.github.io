@@ -7,13 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>alexis lavail</copyright>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>random</title>
-      <link>https://astro-alexis.github.io/tags/random/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>astronomy</title>
+      <link>https://astro-alexis.github.io/tags/astronomy/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://astro-alexis.github.io/tags/random/</guid>
+      <guid>https://astro-alexis.github.io/tags/astronomy/</guid>
+     
+      <description>
+        
+
+          
+</description>
+    </item>
+    
+    <item>
+      <title>crires</title>
+      <link>https://astro-alexis.github.io/tags/crires/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/crires/</guid>
      
       <description>
         
@@ -25,9 +39,23 @@
     <item>
       <title>work</title>
       <link>https://astro-alexis.github.io/tags/work/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://astro-alexis.github.io/tags/work/</guid>
+     
+      <description>
+        
+
+          
+</description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>https://astro-alexis.github.io/tags/random/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/tags/random/</guid>
      
       <description>
         

@@ -9,6 +9,27 @@
     <copyright>alexis lavail</copyright>
     <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://astro-alexis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First polarized spectra with CRIRES&#43;</title>
+      <link>https://astro-alexis.github.io/blog/polarimetry/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://astro-alexis.github.io/blog/polarimetry/</guid>
+     
+      <description>
+        
+            
+                <img src="/blog/polarimetry/stokes.png"></img>
+            
+        
+
+        &lt;p&gt;&lt;strong&gt;In 2013&lt;/strong&gt;, I started working on the CRIRES+ instrument for the Very Large Telescope, and particularly its polarimeter which we&amp;rsquo;ve built and tested in Uppsala before integrating it with the rest of the instrument. The whole goal of this system is to get polarized spectra of stars, to study, among other things, their magnetic fields.&lt;/p&gt;
+&lt;p&gt;Well, today, we just computed the first polarized spectra coming from that instrument, with observations we took &lt;a href=&#34;./2021-06-11-remote-commissioning&#34;&gt;earlier this month&lt;/a&gt;. The spectrum is of a polarized standard star &lt;a href=&#34;http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=gam+equ&amp;amp;submit=SIMBAD+search&#34;&gt;Gam Equ&lt;/a&gt;, and the data looks reasonable when compared with data of the same star taken with a similar instrument, &lt;a href=&#34;https://www.cfht.hawaii.edu/Instruments/SPIRou/&#34;&gt;SPIRou&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are of course many things to fix and to improve, but this is a great closure before the summer holidays 🎉.&lt;/p&gt;
+  
+</description>
+    </item>
+    
+    <item>
       <title>The devil (or the good god) is in the detail</title>
       <link>https://astro-alexis.github.io/blog/devil-in-detail/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
