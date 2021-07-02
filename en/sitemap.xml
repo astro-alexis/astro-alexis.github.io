@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astro-alexis.github.io/blog/2021-07-02-analog/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/photo/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://astro-alexis.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://astro-alexis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://astro-alexis.github.io/tags/astronomy/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url>
@@ -15,21 +40,6 @@
   <url>
     <loc>https://astro-alexis.github.io/blog/polarimetry/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://astro-alexis.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astro-alexis.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -64,11 +74,6 @@
   
   <url>
     <loc>https://astro-alexis.github.io/tags/nature/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/photo/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
