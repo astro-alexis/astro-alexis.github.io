@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://astro-alexis.github.io/blog/2021-07-02-analog/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://astro-alexis.github.io/tags/design/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astro-alexis.github.io/tags/photo/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://astro-alexis.github.io/blog/pnps-logo/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://astro-alexis.github.io/tags/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -25,6 +25,16 @@
                 hreflang="en"
                 href="https://astro-alexis.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/blog/2021-07-02-analog/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astro-alexis.github.io/tags/photo/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,11 +215,6 @@
   <url>
     <loc>https://astro-alexis.github.io/cv/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://astro-alexis.github.io/tags/design/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
