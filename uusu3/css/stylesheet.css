@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Blacker Display';
+    src: url('BlackerDisplay-HeavyItalic.woff2') format('woff2'),
+        url('BlackerDisplay-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blacker Display';
+    src: url('BlackerDisplay-Heavy.woff2') format('woff2'),
+        url('BlackerDisplay-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+

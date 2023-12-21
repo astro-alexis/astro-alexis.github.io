@@ -1,0 +1,155 @@
+html {overflow-y: scroll; background-color: rgb(255, 255, 248);)}
+header {font-family: sans-serif;}
+body{
+	max-width: 1200px;
+	margin: 40px auto;
+	padding:0 10px;
+    font-family: sans-serif;
+	font-weight: 400;
+	color: rgb(17,17,17);
+    font-variant-numeric: tabular-nums;
+}
+
+time {
+    color: rgb(160,160,160);
+    font-variant-numeric: tabular-nums;
+}
+
+
+h1,h2,h3,h4 {
+	line-height:1.1; 
+	font-variant-numeric: tabular-nums;
+	font-weight: 400;
+	margin-bottom: 0.1rem;
+}
+h2 a {
+    border-bottom: none;
+    margin-bottom: -2.1rem;
+    font-variant-numeric: tabular-nums;
+}
+
+span {
+	font-family: sans-serif;
+    font-variant-numeric: tabular-nums;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+p > code{color: #FFFFFF; background:#000000; padding:2px}
+pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
+article{padding:0px; max-width: 800px; margin: 0px;}
+.center {display: block;margin-left: auto;margin-right: auto;width: 100%;}
+img { max-width: 100%; height: auto; background-color: white;}
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+figcaption {
+    color: #bb3e3e; 
+    font-family: serif;
+    text-align: center;}
+
+figure {margin: auto}
+
+nav a, nav span {
+padding: 0.5rem 0.5rem 0.5rem 0.5rem; 
+}
+a.active {
+    color: #ffffff;
+    background: #3e89a1;
+    font-weight: bold;
+    text-decoration: none;
+}
+a.active:hover {
+    background: #6fbbe2;
+}
+.atag {
+    font-size: 1rem;
+    color: #555555!important;
+    background-color: #dedede;
+    border-bottom: none;
+    font-weight: 500;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.1rem;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+}
+
+.atag:hover {
+    color: #444444!important;
+    background-color: #eeeeee;
+}
+
+hr.light {
+    border: 1px dashed #cccccc;
+}
+
+
+th, thead {
+    text-align: "left";
+}
+
+ol li, ul li {
+	margin-bottom: 0.2rem;
+}
+
+.publication-title {
+    font-family: sans-serif; 
+}
+
+
+.publinks {
+    float: right;
+}
+
+.publinks a {
+    font-weight: 400;
+    padding-left: .2rem;
+    padding-right: .2rem;
+}
+
+.publinks a:hover {
+    color: #6D75E0;
+}
+
+dd {
+    font-size: 1rem;
+}
+
+.me {
+    color: #bb3e3e;
+    font-weight: 700;
+}
+
+.authors {
+    color: #91889B;
+    line-height: 1.3rem;
+    font-size: .9rem;
+}
+
+.pubref {
+    line-height: 1.3rem;
+    font-size: 1.rem;
+    font-variant-numeric: oldstyle-nums;
+
+}
+dt {
+    font-weight: 400;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+pubnum {
+    color: #657b83;
+}

@@ -1,0 +1,66 @@
+.logonormal {
+  background-color: #eee !important;
+  width: 100%;
+}
+.logoclair {
+  background-image: url("../../images/cg/sombre.jpg");
+  background-color: #222;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.logosombre {
+  background-image: url("../../images/cg/clair.jpg");
+  background-color: #eee;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.imglogo {
+  max-width: 600px !important;
+  width: 80%;
+}
+
+.orange {
+  background-color: #e75113;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.gris {
+  background-color: #222;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.bleu1 {
+  background-color: #2E3842;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.bleu2 {
+  background-color: #586a7c;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.bleu3 {
+  background-color: #8a9cae;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.blanc {
+  background-color: #fff;
+  color: #222 !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+texte {
+  margin: 0;
+  font-family: "Merriweather", Georgia, serif;
+  font-weight: normal;
+  font-size: 1.2em;
+}

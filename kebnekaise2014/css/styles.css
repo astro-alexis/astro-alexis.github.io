@@ -1,0 +1,88 @@
+/*
+ * intense-image-viewer
+ *
+ * MIT licensed
+ * Copyright (C) 2013 Tim Holman, http://tholman.com
+ */
+/*********************************************
+ *
+ *********************************************/
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html, body {
+font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  font-weight:600; }
+
+body {
+  padding: 20px;
+  text-align: center;
+  min-width: 700px;
+  background: #222;
+  color: #eee; }
+
+a
+ {
+ color:  #bb3e3e;
+}
+h1 {
+font-family: 'Open Sans', sans-serif;
+ background: rgba(0, 0, 0, 0.7);
+ font-weight:600;
+ padding-left: 3px;
+ padding-right: 3px;
+}
+header h1, footer h1 {
+  font-family: "open Sans", sans-serif;
+  width: auto;
+  background: #222222;
+  color: #eee;
+  height: 55px;
+  line-height: 55px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 20px; }
+
+.demos {
+  text-align: center;
+  margin-top: 20px; }
+
+.demo-image {
+  cursor: url("../img/plus_cursor.png") 25 25, pointer;
+  display: inline-block;
+  width: 290px;
+  height: 290px;
+  background-size: cover;
+  background-position: 50% 50%;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 16px; }
+  .demo-image.un {
+    background-image: url("../img/img_0002.jpg"); }
+  .demo-image.deux {
+    background-image: url("../img/img_0003.jpg"); }
+  .demo-image.trois {
+    background-image: url("../img/img_0004.jpg"); }
+  .demo-image.quatre {
+    background-image: url("../img/img_0005.jpg"); }
+  .demo-image.cinq {
+    background-image: url("../img/img_0006.jpg"); }
+  .demo-image.six {
+    background-image: url("../img/img_0007.jpg"); }
+      .demo-image.sept {
+    background-image: url("../img/img_0008.jpg"); }
+  .demo-image.huit {
+    background-image: url("../img/img_0009.jpg"); }
+  .demo-image.neuf {
+    background-image: url("../img/img_0010.jpg"); }
+
+iframe {
+  margin-bottom: -5px;
+  margin-left: 2px; }
+
+
