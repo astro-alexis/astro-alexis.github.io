@@ -1,13 +1,16 @@
 html {overflow-y: scroll; background-color: rgb(255, 255, 248);)}
-header {font-family: sans-serif;}
+
+header {font-family: system-ui;}
+
 body{
 	max-width: 1200px;
 	margin: 40px auto;
 	padding:0 10px;
-    font-family: sans-serif;
+    font-family: system-ui;
 	font-weight: 400;
 	color: rgb(17,17,17);
     font-variant-numeric: tabular-nums;
+    line-height: 1.35;
 }
 
 time {
@@ -29,7 +32,7 @@ h2 a {
 }
 
 span {
-	font-family: sans-serif;
+	font-family: system-ui;
     font-variant-numeric: tabular-nums;
 }
 
@@ -46,6 +49,7 @@ pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
 article{padding:0px; max-width: 800px; margin: 0px;}
 .center {display: block;margin-left: auto;margin-right: auto;width: 100%;}
 img { max-width: 100%; height: auto; background-color: white;}
+
 img[src$='#center']
 {
     display: block;
