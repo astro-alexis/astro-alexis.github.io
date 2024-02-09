@@ -1,20 +1,27 @@
-html {overflow-y: scroll; background-color: rgb(255, 255, 248);)}
+html {
+    overflow-y: scroll; 
+    background-color: rgb(255, 255, 248);
+)}
 
-header {font-family: system-ui;}
+header {
+    font-family: system-ui;
+    border-bottom: solid 1rem #bef6e0;
+    margin-bottom: 1rem;
+}
 
 body{
-	max-width: 1200px;
+	max-width: 800px;
 	margin: 40px auto;
 	padding:0 10px;
     font-family: system-ui;
 	font-weight: 400;
-	color: rgb(17,17,17);
+	color: rgb(25,25,25);
     font-variant-numeric: tabular-nums;
     line-height: 1.35;
 }
 
 time {
-    color: rgb(160,160,160);
+    color: rgb(130,130,130);
     font-variant-numeric: tabular-nums;
 }
 
@@ -22,7 +29,6 @@ time {
 h1,h2,h3,h4 {
 	line-height:1.1; 
 	font-variant-numeric: tabular-nums;
-	font-weight: 400;
 	margin-bottom: 0.1rem;
 }
 h2 a {
@@ -77,24 +83,6 @@ a.active {
 a.active:hover {
     background: #6fbbe2;
 }
-.atag {
-    font-size: 1rem;
-    color: #555555!important;
-    background-color: #dedede;
-    border-bottom: none;
-    font-weight: 500;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
-    padding-top: 0.3rem;
-    padding-bottom: 0.1rem;
-    text-decoration: none;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-}
-
-.atag:hover {
-    color: #444444!important;
-    background-color: #eeeeee;
-}
 
 hr.light {
     border: 1px dashed #cccccc;
@@ -146,12 +134,10 @@ dd {
 .pubref {
     line-height: 1.3rem;
     font-size: 1.rem;
-    font-variant-numeric: oldstyle-nums;
-
+    font-style: italic;
 }
 dt {
     font-weight: 400;
-    font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
 pubnum {
